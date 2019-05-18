@@ -1,0 +1,47 @@
+import requests
+import re
+
+urls = []
+for i in range(1,100):
+    urls.append('https://rate.tmall.com/list_detail_rate.htm?itemId=541321915112&spuId=711294605&sellerId=2873639922&order=3&currentPage=%s'%i)
+
+nickname = []
+ratedate = []
+color = []
+size = []
+ratecontent = []
+
+for url in urls:
+    content = requests.get(url).text
+
+    nickname.extend(re.findall('"displayUserNick":"(.*?)"',content))
+    
+    ratecontent.extend(re.findall(re.compile('"rateContent":"(.*?)","rateDate"'),content))
+
+file = open(r'C:\Users\ruihu\Desktop\pachong.txt','w+',encoding='utf8')
+
+for i in list(range(0,len(nickname))):
+
+    file.write(','.join((nickname[i],ratecontent[i]))+'\n')
+
+file.close()
+
+
+
+
+
+
+
+
+
+
+
+python3.7
+
+数据分析报告、人工智能算法
+
+PM2.5
+
+世界杯
+
+豆瓣电影

