@@ -37,8 +37,6 @@ def save(lock):
             break
 
 
-
-
 def main():
     lock = threading.Lock()
     urls = []
