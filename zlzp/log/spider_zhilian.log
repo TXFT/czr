@@ -1,0 +1,1244 @@
+2019-04-29 15:26:58,228 - INFO - ********************Start running spider!********************
+2019-04-29 15:26:58,228 - INFO - **********start spider jobname:数据分析city:石家庄**********
+2019-04-29 15:26:58,228 - INFO - start get job count...
+2019-04-29 15:26:59,019 - INFO - get job count nums sucess:1829
+2019-04-29 15:26:59,019 - INFO - page nums:31
+2019-04-29 15:26:59,020 - INFO - load url file of already spider：old_url.txt
+2019-04-29 15:26:59,020 - INFO - not found url file of already spider!
+2019-04-29 15:26:59,035 - INFO - spider start:0
+2019-04-29 15:26:59,036 - INFO - get current page all job urls...
+2019-04-29 15:26:59,646 - INFO - get current page all job urls √:60
+2019-04-29 15:26:59,646 - INFO - spider url:https://jobs.zhaopin.com/CC383625322J00150609513.htm
+2019-04-29 15:26:59,957 - INFO - get job info success!
+2019-04-29 15:26:59,959 - INFO - spider url:https://jobs.zhaopin.com/CC627597022J00291380007.htm
+2019-04-29 15:27:00,256 - INFO - get job info success!
+2019-04-29 15:27:00,257 - INFO - spider url:https://jobs.zhaopin.com/CC293567337J00126211009.htm
+2019-04-29 15:27:00,526 - INFO - get job info success!
+2019-04-29 15:27:00,527 - INFO - spider url:https://jobs.zhaopin.com/CC179791323J00332160505.htm
+2019-04-29 15:27:00,692 - INFO - get job info success!
+2019-04-29 15:27:00,694 - INFO - spider url:https://jobs.zhaopin.com/CC320474686J00134297714.htm
+2019-04-29 15:27:01,225 - INFO - get job info success!
+2019-04-29 15:27:01,226 - INFO - spider url:https://jobs.zhaopin.com/CC383625322J00061452113.htm
+2019-04-29 15:27:01,586 - INFO - get job info success!
+2019-04-29 15:27:01,587 - INFO - spider url:https://jobs.zhaopin.com/297686812250947.htm
+2019-04-29 15:27:01,811 - INFO - get job info success!
+2019-04-29 15:27:01,813 - INFO - spider url:https://jobs.zhaopin.com/CC191517517J00244062608.htm
+2019-04-29 15:27:02,200 - INFO - get job info success!
+2019-04-29 15:27:02,202 - INFO - spider url:https://jobs.zhaopin.com/CC221836413J00117894002.htm
+2019-04-29 15:27:02,364 - INFO - get job info success!
+2019-04-29 15:27:02,365 - INFO - spider url:https://jobs.zhaopin.com/CC627656430J00120486712.htm
+2019-04-29 15:27:02,625 - INFO - get job info success!
+2019-04-29 15:27:02,627 - INFO - spider url:https://jobs.zhaopin.com/CC178087823J00133001007.htm
+2019-04-29 15:27:02,889 - INFO - get job info success!
+2019-04-29 15:27:02,890 - INFO - spider url:https://jobs.zhaopin.com/284641387250485.htm
+2019-04-29 15:27:03,273 - INFO - get job info success!
+2019-04-29 15:27:03,275 - INFO - spider url:https://jobs.zhaopin.com/284641387250545.htm
+2019-04-29 15:27:03,552 - INFO - get job info success!
+2019-04-29 15:27:03,553 - INFO - spider url:https://jobs.zhaopin.com/CC376197614J00246151302.htm
+2019-04-29 15:27:03,802 - INFO - get job info success!
+2019-04-29 15:27:03,804 - INFO - spider url:https://jobs.zhaopin.com/CC000327562J00117071412.htm
+2019-04-29 15:27:03,988 - INFO - get job info success!
+2019-04-29 15:27:03,989 - INFO - spider url:https://jobs.zhaopin.com/CC627656430J00120482512.htm
+2019-04-29 15:27:04,433 - INFO - get job info success!
+2019-04-29 15:27:04,434 - INFO - spider url:https://jobs.zhaopin.com/CC196333620J00169898903.htm
+2019-04-29 15:27:04,741 - INFO - get job info success!
+2019-04-29 15:27:04,743 - INFO - spider url:https://jobs.zhaopin.com/CC196333621J00212022003.htm
+2019-04-29 15:27:04,999 - INFO - get job info success!
+2019-04-29 15:27:05,000 - INFO - spider url:https://jobs.zhaopin.com/648311223250323.htm
+2019-04-29 15:27:05,292 - INFO - get job info success!
+2019-04-29 15:27:05,293 - INFO - spider url:https://jobs.zhaopin.com/CC308744085J00331970401.htm
+2019-04-29 15:27:05,983 - INFO - get job info success!
+2019-04-29 15:27:05,985 - INFO - spider url:https://jobs.zhaopin.com/CC196333621J00281549703.htm
+2019-04-29 15:27:06,246 - INFO - get job info success!
+2019-04-29 15:27:06,247 - INFO - spider url:https://jobs.zhaopin.com/CC200911984J00270470907.htm
+2019-04-29 15:27:07,172 - INFO - get job info success!
+2019-04-29 15:27:07,173 - INFO - spider url:https://jobs.zhaopin.com/CC627656430J00120470012.htm
+2019-04-29 15:27:07,431 - INFO - get job info success!
+2019-04-29 15:27:07,432 - INFO - spider url:https://jobs.zhaopin.com/CC380113183J00145342911.htm
+2019-04-29 15:27:07,585 - INFO - get job info success!
+2019-04-29 15:27:07,586 - INFO - spider url:https://jobs.zhaopin.com/CC520103621J00204771603.htm
+2019-04-29 15:27:07,903 - INFO - get job info success!
+2019-04-29 15:27:07,905 - INFO - spider url:https://jobs.zhaopin.com/CZ827520340J00282202703.htm
+2019-04-29 15:27:08,052 - INFO - get job info success!
+2019-04-29 15:27:08,053 - INFO - spider url:https://jobs.zhaopin.com/CC312956882J00203685201.htm
+2019-04-29 15:27:08,272 - INFO - get job info success!
+2019-04-29 15:27:08,273 - INFO - spider url:https://jobs.zhaopin.com/CC420454016J00120888115.htm
+2019-04-29 15:27:08,453 - INFO - get job info success!
+2019-04-29 15:27:08,454 - INFO - spider url:https://jobs.zhaopin.com/CC301575130J00160384602.htm
+2019-04-29 15:27:08,710 - INFO - get job info success!
+2019-04-29 15:27:08,711 - INFO - spider url:https://jobs.zhaopin.com/CC819930900J00152028513.htm
+2019-04-29 15:27:08,976 - INFO - get job info success!
+2019-04-29 15:27:08,977 - INFO - spider url:https://jobs.zhaopin.com/CC176946926J00307564105.htm
+2019-04-29 15:27:09,207 - INFO - get job info success!
+2019-04-29 15:27:09,208 - INFO - spider url:https://jobs.zhaopin.com/CC627597022J00315099607.htm
+2019-04-29 15:27:09,478 - INFO - get job info success!
+2019-04-29 15:27:09,479 - INFO - spider url:https://jobs.zhaopin.com/CC669526226J00306954907.htm
+2019-04-29 15:27:09,608 - INFO - get job info success!
+2019-04-29 15:27:09,609 - INFO - spider url:https://jobs.zhaopin.com/CZ274001480J00131773615.htm
+2019-04-29 15:27:09,801 - INFO - get job info success!
+2019-04-29 15:27:09,801 - INFO - spider url:https://jobs.zhaopin.com/186653927250881.htm
+2019-04-29 15:27:10,063 - INFO - get job info success!
+2019-04-29 15:27:10,065 - INFO - spider url:https://jobs.zhaopin.com/CC463106281J00131785709.htm
+2019-04-29 15:27:10,227 - INFO - get job info success!
+2019-04-29 15:27:10,228 - INFO - spider url:https://jobs.zhaopin.com/CC312970386J00258040407.htm
+2019-04-29 15:27:10,489 - INFO - get job info success!
+2019-04-29 15:27:10,490 - INFO - spider url:https://jobs.zhaopin.com/CC432188313J00188441508.htm
+2019-04-29 15:27:10,742 - INFO - get job info success!
+2019-04-29 15:27:10,743 - INFO - spider url:https://jobs.zhaopin.com/CZ892986410J00131464914.htm
+2019-04-29 15:27:11,057 - INFO - get job info success!
+2019-04-29 15:27:11,058 - INFO - spider url:https://jobs.zhaopin.com/CC176740328J00309565901.htm
+2019-04-29 15:27:11,284 - INFO - get job info success!
+2019-04-29 15:27:11,285 - INFO - spider url:https://jobs.zhaopin.com/CC403261187J00119201209.htm
+2019-04-29 15:27:11,424 - INFO - get job info success!
+2019-04-29 15:27:11,424 - INFO - spider url:https://jobs.zhaopin.com/CC523289127J00313466501.htm
+2019-04-29 15:27:11,588 - INFO - get job info success!
+2019-04-29 15:27:11,589 - INFO - spider url:https://jobs.zhaopin.com/CC120473253J00036847612.htm
+2019-04-29 15:27:11,844 - INFO - get job info success!
+2019-04-29 15:27:11,845 - INFO - spider url:https://jobs.zhaopin.com/CC214743414J00199669506.htm
+2019-04-29 15:27:12,083 - INFO - get job info success!
+2019-04-29 15:27:12,084 - INFO - spider url:https://jobs.zhaopin.com/CC446777680J00059880311.htm
+2019-04-29 15:27:12,277 - INFO - get job info success!
+2019-04-29 15:27:12,279 - INFO - spider url:https://jobs.zhaopin.com/CZ274001480J00131773715.htm
+2019-04-29 15:27:12,518 - INFO - get job info success!
+2019-04-29 15:27:12,520 - INFO - spider url:https://jobs.zhaopin.com/CC377132725J00151056511.htm
+2019-04-29 15:27:12,773 - INFO - get job info success!
+2019-04-29 15:27:12,774 - INFO - spider url:https://jobs.zhaopin.com/523289127250099.htm
+2019-04-29 15:27:13,047 - INFO - get job info success!
+2019-04-29 15:27:13,047 - INFO - spider url:https://jobs.zhaopin.com/CC377285430J00132979415.htm
+2019-04-29 15:27:13,189 - INFO - get job info success!
+2019-04-29 15:27:13,191 - INFO - spider url:https://jobs.zhaopin.com/CC642888722J00146364913.htm
+2019-04-29 15:27:13,344 - INFO - get job info success!
+2019-04-29 15:27:13,345 - INFO - spider url:https://jobs.zhaopin.com/CC334335637J00134305211.htm
+2019-04-29 15:27:13,525 - INFO - get job info success!
+2019-04-29 15:27:13,526 - INFO - spider url:https://jobs.zhaopin.com/CC327037487J00135600209.htm
+2019-04-29 15:27:13,753 - INFO - get job info success!
+2019-04-29 15:27:13,755 - INFO - spider url:https://jobs.zhaopin.com/CC320474686J00134300114.htm
+2019-04-29 15:27:13,985 - INFO - get job info success!
+2019-04-29 15:27:13,986 - INFO - spider url:https://jobs.zhaopin.com/CC383625322J00150153313.htm
+2019-04-29 15:27:14,125 - INFO - get job info success!
+2019-04-29 15:27:14,127 - INFO - spider url:https://jobs.zhaopin.com/CC475194189J00164005411.htm
+2019-04-29 15:27:14,362 - INFO - get job info success!
+2019-04-29 15:27:14,363 - INFO - spider url:https://jobs.zhaopin.com/CC631021123J00284244301.htm
+2019-04-29 15:27:14,539 - INFO - get job info success!
+2019-04-29 15:27:14,539 - INFO - spider url:https://jobs.zhaopin.com/CC314038481J00135979509.htm
+2019-04-29 15:27:14,769 - INFO - get job info success!
+2019-04-29 15:27:14,770 - INFO - spider url:https://jobs.zhaopin.com/CZ131931980J00366953101.htm
+2019-04-29 15:27:14,949 - INFO - get job info success!
+2019-04-29 15:27:14,950 - INFO - spider url:https://jobs.zhaopin.com/CZ131931980J00361749401.htm
+2019-04-29 15:27:15,122 - INFO - get job info success!
+2019-04-29 15:27:15,124 - INFO - spider url:https://jobs.zhaopin.com/CC297686812J00142675502.htm
+2019-04-29 15:27:15,677 - INFO - get job info success!
+2019-04-29 15:27:15,679 - INFO - spider start:60
+2019-04-29 15:27:15,679 - INFO - get current page all job urls...
+2019-04-29 15:27:16,339 - INFO - get current page all job urls √:60
+2019-04-29 15:27:16,340 - INFO - spider url:https://jobs.zhaopin.com/CC276234382J00213417907.htm
+2019-04-29 15:27:16,599 - INFO - get job info success!
+2019-04-29 15:27:16,600 - INFO - spider url:https://jobs.zhaopin.com/CC841197110J00147613813.htm
+2019-04-29 15:27:16,811 - INFO - get job info success!
+2019-04-29 15:27:16,813 - INFO - spider url:https://jobs.zhaopin.com/CZ131931980J00366955501.htm
+2019-04-29 15:27:17,195 - INFO - get job info success!
+2019-04-29 15:27:17,196 - INFO - spider url:https://jobs.zhaopin.com/CC828079600J00150715513.htm
+2019-04-29 15:27:17,484 - INFO - get job info success!
+2019-04-29 15:27:17,486 - INFO - spider url:https://jobs.zhaopin.com/CC265749613J00200101202.htm
+2019-04-29 15:27:17,700 - INFO - get job info success!
+2019-04-29 15:27:17,701 - INFO - spider url:https://jobs.zhaopin.com/320474686250000.htm
+2019-04-29 15:27:17,987 - INFO - get job info success!
+2019-04-29 15:27:17,988 - INFO - spider url:https://jobs.zhaopin.com/CC265749613J00203822802.htm
+2019-04-29 15:27:18,192 - INFO - get job info success!
+2019-04-29 15:27:18,193 - INFO - spider url:https://jobs.zhaopin.com/CC630038725J00365720201.htm
+2019-04-29 15:27:18,567 - INFO - get job info success!
+2019-04-29 15:27:18,568 - INFO - spider url:https://jobs.zhaopin.com/CC375003436J00233858808.htm
+2019-04-29 15:27:18,819 - INFO - get job info success!
+2019-04-29 15:27:18,820 - INFO - spider url:https://jobs.zhaopin.com/CC630038725J00341505201.htm
+2019-04-29 15:27:18,971 - INFO - get job info success!
+2019-04-29 15:27:18,972 - INFO - spider url:https://jobs.zhaopin.com/CC303361836J00249366308.htm
+2019-04-29 15:27:19,181 - INFO - get job info success!
+2019-04-29 15:27:19,181 - INFO - spider url:https://jobs.zhaopin.com/CC496499638J00049687804.htm
+2019-04-29 15:27:19,320 - INFO - get job info success!
+2019-04-29 15:27:19,321 - INFO - spider url:https://jobs.zhaopin.com/CC652050820J00132830814.htm
+2019-04-29 15:27:19,468 - INFO - get job info success!
+2019-04-29 15:27:19,468 - INFO - spider url:https://jobs.zhaopin.com/CC407312210J00131382315.htm
+2019-04-29 15:27:19,604 - INFO - get job info success!
+2019-04-29 15:27:19,605 - INFO - spider url:https://jobs.zhaopin.com/CC664763330J00135683209.htm
+2019-04-29 15:27:19,868 - INFO - get job info success!
+2019-04-29 15:27:19,869 - INFO - spider url:https://jobs.zhaopin.com/CC603360530J00089433310.htm
+2019-04-29 15:27:20,254 - INFO - get job info success!
+2019-04-29 15:27:20,255 - INFO - spider url:https://jobs.zhaopin.com/CC120835179J00107221914.htm
+2019-04-29 15:27:20,532 - INFO - get job info success!
+2019-04-29 15:27:20,533 - INFO - spider url:https://jobs.zhaopin.com/CC818838730J00128698510.htm
+2019-04-29 15:27:20,882 - INFO - get job info success!
+2019-04-29 15:27:20,883 - INFO - spider url:https://jobs.zhaopin.com/CC503162520J00125748109.htm
+2019-04-29 15:27:21,165 - INFO - get job info success!
+2019-04-29 15:27:21,167 - INFO - spider url:https://jobs.zhaopin.com/CZ572092620J00105278514.htm
+2019-04-29 15:27:21,353 - INFO - get job info success!
+2019-04-29 15:27:21,354 - INFO - spider url:https://jobs.zhaopin.com/CC603360530J00088483610.htm
+2019-04-29 15:27:21,685 - INFO - get job info success!
+2019-04-29 15:27:21,686 - INFO - spider url:https://jobs.zhaopin.com/CC218665018J00236906306.htm
+2019-04-29 15:27:21,791 - INFO - get job info success!
+2019-04-29 15:27:21,792 - INFO - spider url:https://jobs.zhaopin.com/CC603360530J00088924710.htm
+2019-04-29 15:27:22,030 - INFO - get job info success!
+2019-04-29 15:27:22,031 - INFO - spider url:https://jobs.zhaopin.com/CC603360530J00108264510.htm
+2019-04-29 15:27:22,175 - INFO - get job info success!
+2019-04-29 15:27:22,176 - INFO - spider url:https://jobs.zhaopin.com/CC848043770J00133973209.htm
+2019-04-29 15:27:22,270 - INFO - get job info success!
+2019-04-29 15:27:22,271 - INFO - spider url:https://jobs.zhaopin.com/CC603360530J00134034410.htm
+2019-04-29 15:27:22,512 - INFO - get job info success!
+2019-04-29 15:27:22,513 - INFO - spider url:https://jobs.zhaopin.com/CC603360530J00088493510.htm
+2019-04-29 15:27:22,780 - INFO - get job info success!
+2019-04-29 15:27:22,781 - INFO - spider url:https://jobs.zhaopin.com/CZ369274580J00103730410.htm
+2019-04-29 15:27:23,084 - INFO - get job info success!
+2019-04-29 15:27:23,085 - INFO - spider url:https://jobs.zhaopin.com/CC603360530J00132908310.htm
+2019-04-29 15:27:23,322 - INFO - get job info success!
+2019-04-29 15:27:23,324 - INFO - spider url:https://jobs.zhaopin.com/284641387250461.htm
+2019-04-29 15:27:23,576 - INFO - get job info success!
+2019-04-29 15:27:23,576 - INFO - spider url:https://jobs.zhaopin.com/CC603360530J00089429110.htm
+2019-04-29 15:27:23,818 - INFO - get job info success!
+2019-04-29 15:27:23,819 - INFO - spider url:https://jobs.zhaopin.com/332612588250034.htm
+2019-04-29 15:27:24,400 - INFO - get job info success!
+2019-04-29 15:27:24,402 - INFO - spider url:https://jobs.zhaopin.com/CC846525090J00133959813.htm
+2019-04-29 15:27:24,669 - INFO - get job info success!
+2019-04-29 15:27:24,669 - INFO - spider url:https://jobs.zhaopin.com/CC664763330J00129397909.htm
+2019-04-29 15:27:24,801 - INFO - get job info success!
+2019-04-29 15:27:24,803 - INFO - spider url:https://jobs.zhaopin.com/CZ503718680J00035418710.htm
+2019-04-29 15:27:24,965 - INFO - get job info success!
+2019-04-29 15:27:24,966 - INFO - spider url:https://jobs.zhaopin.com/CZ503718680J00132226710.htm
+2019-04-29 15:27:25,232 - INFO - get job info success!
+2019-04-29 15:27:25,233 - INFO - spider url:https://jobs.zhaopin.com/CC434476818J00175327702.htm
+2019-04-29 15:27:25,415 - INFO - get job info success!
+2019-04-29 15:27:25,417 - INFO - spider url:https://jobs.zhaopin.com/CC527179224J00278261103.htm
+2019-04-29 15:27:25,575 - INFO - get job info success!
+2019-04-29 15:27:25,577 - INFO - spider url:https://jobs.zhaopin.com/CC818838730J00135639210.htm
+2019-04-29 15:27:25,729 - INFO - get job info success!
+2019-04-29 15:27:25,730 - INFO - spider url:https://jobs.zhaopin.com/CC602233580J00318540307.htm
+2019-04-29 15:27:25,891 - INFO - get job info success!
+2019-04-29 15:27:25,892 - INFO - spider url:https://jobs.zhaopin.com/CC523079127J00334868901.htm
+2019-04-29 15:27:26,209 - INFO - get job info success!
+2019-04-29 15:27:26,210 - INFO - spider url:https://jobs.zhaopin.com/CC179674323J00150339501.htm
+2019-04-29 15:27:26,435 - INFO - get job info success!
+2019-04-29 15:27:26,436 - INFO - spider url:https://jobs.zhaopin.com/CZ844215180J00127821715.htm
+2019-04-29 15:27:26,690 - INFO - get job info success!
+2019-04-29 15:27:26,691 - INFO - spider url:https://jobs.zhaopin.com/CC664763330J00135678809.htm
+2019-04-29 15:27:27,006 - INFO - get job info success!
+2019-04-29 15:27:27,007 - INFO - spider url:https://jobs.zhaopin.com/CC664763330J00135681709.htm
+2019-04-29 15:27:27,150 - INFO - get job info success!
+2019-04-29 15:27:27,151 - INFO - spider url:https://jobs.zhaopin.com/CC831087530J00131115609.htm
+2019-04-29 15:27:27,408 - INFO - get job info success!
+2019-04-29 15:27:27,409 - INFO - spider url:https://jobs.zhaopin.com/CC573285180J00236350207.htm
+2019-04-29 15:27:27,650 - INFO - get job info success!
+2019-04-29 15:27:27,651 - INFO - spider url:https://jobs.zhaopin.com/CC831087530J00131507409.htm
+2019-04-29 15:27:27,967 - INFO - get job info success!
+2019-04-29 15:27:27,968 - INFO - spider url:https://jobs.zhaopin.com/CC180646226J00231292007.htm
+2019-04-29 15:27:28,487 - INFO - get job info success!
+2019-04-29 15:27:28,489 - INFO - spider url:https://jobs.zhaopin.com/CC626856530J00146274911.htm
+2019-04-29 15:27:28,633 - INFO - get job info success!
+2019-04-29 15:27:28,634 - INFO - spider url:https://jobs.zhaopin.com/CC827230660J00118828415.htm
+2019-04-29 15:27:28,900 - INFO - get job info success!
+2019-04-29 15:27:28,901 - INFO - spider url:https://jobs.zhaopin.com/CC831087530J00131115509.htm
+2019-04-29 15:27:29,148 - INFO - get job info success!
+2019-04-29 15:27:29,149 - INFO - spider url:https://jobs.zhaopin.com/CC819930900J00120298013.htm
+2019-04-29 15:27:29,395 - INFO - get job info success!
+2019-04-29 15:27:29,396 - INFO - spider url:https://jobs.zhaopin.com/CC543215928J00371739901.htm
+2019-04-29 15:27:29,684 - INFO - get job info success!
+2019-04-29 15:27:29,685 - INFO - spider url:https://jobs.zhaopin.com/444252818250202.htm
+2019-04-29 15:27:30,069 - INFO - get job info success!
+2019-04-29 15:27:30,070 - INFO - spider url:https://jobs.zhaopin.com/CC635094024J00223099403.htm
+2019-04-29 15:27:30,178 - INFO - get job info success!
+2019-04-29 15:27:30,179 - INFO - spider url:https://jobs.zhaopin.com/CC681034330J00115313715.htm
+2019-04-29 15:27:30,438 - INFO - get job info success!
+2019-04-29 15:27:30,440 - INFO - spider url:https://jobs.zhaopin.com/451288739250022.htm
+2019-04-29 15:27:30,655 - INFO - get job info success!
+2019-04-29 15:27:30,656 - INFO - spider url:https://jobs.zhaopin.com/CC815420790J00132399012.htm
+2019-04-29 15:27:30,885 - INFO - get job info success!
+2019-04-29 15:27:30,886 - INFO - spider url:https://jobs.zhaopin.com/CC296486880J00073209515.htm
+2019-04-29 15:27:31,210 - INFO - get job info success!
+2019-04-29 15:27:31,212 - INFO - spider start:120
+2019-04-29 15:27:31,212 - INFO - get current page all job urls...
+2019-04-29 15:27:31,867 - INFO - get current page all job urls √:60
+2019-04-29 15:27:31,868 - INFO - spider url:https://jobs.zhaopin.com/CC834114890J00087929009.htm
+2019-04-29 15:27:32,045 - INFO - get job info success!
+2019-04-29 15:27:32,046 - INFO - spider url:https://jobs.zhaopin.com/CC681034330J00115165015.htm
+2019-04-29 15:27:32,327 - INFO - get job info success!
+2019-04-29 15:27:32,328 - INFO - spider url:https://jobs.zhaopin.com/CC648141428J00304807307.htm
+2019-04-29 15:27:32,502 - INFO - get job info success!
+2019-04-29 15:27:32,503 - INFO - spider url:https://jobs.zhaopin.com/CC691399125J00368000301.htm
+2019-04-29 15:27:32,787 - INFO - get job info success!
+2019-04-29 15:27:32,788 - INFO - spider url:https://jobs.zhaopin.com/CC630164426J00149352903.htm
+2019-04-29 15:27:33,187 - INFO - get job info success!
+2019-04-29 15:27:33,188 - INFO - spider url:https://jobs.zhaopin.com/CC563534022J00306782403.htm
+2019-04-29 15:27:33,431 - INFO - get job info success!
+2019-04-29 15:27:33,433 - INFO - spider url:https://jobs.zhaopin.com/482364831250033.htm
+2019-04-29 15:27:33,666 - INFO - get job info success!
+2019-04-29 15:27:33,667 - INFO - spider url:https://jobs.zhaopin.com/CC538476883J00126916412.htm
+2019-04-29 15:27:33,817 - INFO - get job info success!
+2019-04-29 15:27:33,818 - INFO - spider url:https://jobs.zhaopin.com/CC461991187J00122156409.htm
+2019-04-29 15:27:34,038 - INFO - get job info success!
+2019-04-29 15:27:34,039 - INFO - spider url:https://jobs.zhaopin.com/388594836250002.htm
+2019-04-29 15:27:34,257 - INFO - get job info success!
+2019-04-29 15:27:34,258 - INFO - spider url:https://jobs.zhaopin.com/CZ894998010J00039768715.htm
+2019-04-29 15:27:34,405 - INFO - get job info success!
+2019-04-29 15:27:34,406 - INFO - spider url:https://jobs.zhaopin.com/CC459791912J00191165908.htm
+2019-04-29 15:27:34,647 - INFO - get job info success!
+2019-04-29 15:27:34,648 - INFO - spider url:https://jobs.zhaopin.com/CZ602233420J00197384907.htm
+2019-04-29 15:27:34,865 - INFO - get job info success!
+2019-04-29 15:27:34,866 - INFO - spider url:https://jobs.zhaopin.com/371530619250143.htm
+2019-04-29 15:27:35,086 - INFO - get job info success!
+2019-04-29 15:27:35,088 - INFO - spider url:https://jobs.zhaopin.com/523079127250448.htm
+2019-04-29 15:27:35,347 - INFO - get job info success!
+2019-04-29 15:27:35,348 - INFO - spider url:https://jobs.zhaopin.com/CC327170110J00083695704.htm
+2019-04-29 15:27:35,456 - INFO - get job info success!
+2019-04-29 15:27:35,456 - INFO - spider url:https://jobs.zhaopin.com/CC506162887J00162993511.htm
+2019-04-29 15:27:35,609 - INFO - get job info success!
+2019-04-29 15:27:35,610 - INFO - spider url:https://jobs.zhaopin.com/CC835244760J00130364209.htm
+2019-04-29 15:27:35,907 - INFO - get job info success!
+2019-04-29 15:27:35,908 - INFO - spider url:https://jobs.zhaopin.com/CC252005513J00130191014.htm
+2019-04-29 15:27:36,509 - INFO - get job info success!
+2019-04-29 15:27:36,510 - INFO - spider url:https://jobs.zhaopin.com/CZ623861580J00165551611.htm
+2019-04-29 15:27:36,756 - INFO - get job info success!
+2019-04-29 15:27:36,758 - INFO - spider url:https://jobs.zhaopin.com/CC392855788J00122486312.htm
+2019-04-29 15:27:36,989 - INFO - get job info success!
+2019-04-29 15:27:36,991 - INFO - spider url:https://jobs.zhaopin.com/CC270186017J00246356902.htm
+2019-04-29 15:27:37,281 - INFO - get job info success!
+2019-04-29 15:27:37,282 - INFO - spider url:https://jobs.zhaopin.com/388594836250003.htm
+2019-04-29 15:27:37,513 - INFO - get job info success!
+2019-04-29 15:27:37,515 - INFO - spider url:https://jobs.zhaopin.com/CC231093416J00225566906.htm
+2019-04-29 15:27:37,687 - INFO - get job info success!
+2019-04-29 15:27:37,689 - INFO - spider url:https://jobs.zhaopin.com/CZ376133710J00113959413.htm
+2019-04-29 15:27:37,836 - INFO - get job info success!
+2019-04-29 15:27:37,837 - INFO - spider url:https://jobs.zhaopin.com/CC845115980J00122388912.htm
+2019-04-29 15:27:38,050 - INFO - get job info success!
+2019-04-29 15:27:38,051 - INFO - spider url:https://jobs.zhaopin.com/CC272701388J00177108203.htm
+2019-04-29 15:27:38,237 - INFO - get job info success!
+2019-04-29 15:27:38,238 - INFO - spider url:https://jobs.zhaopin.com/CC821920290J00117207612.htm
+2019-04-29 15:27:38,404 - INFO - get job info success!
+2019-04-29 15:27:38,405 - INFO - spider url:https://jobs.zhaopin.com/CC252005513J00130173814.htm
+2019-04-29 15:27:39,139 - INFO - get job info success!
+2019-04-29 15:27:39,140 - INFO - spider url:https://jobs.zhaopin.com/CC472162124J00240081605.htm
+2019-04-29 15:27:39,254 - INFO - get job info success!
+2019-04-29 15:27:39,256 - INFO - spider url:https://jobs.zhaopin.com/CC815420790J00132754312.htm
+2019-04-29 15:27:39,499 - INFO - get job info success!
+2019-04-29 15:27:39,500 - INFO - spider url:https://jobs.zhaopin.com/CZ131931980J00366947101.htm
+2019-04-29 15:27:39,813 - INFO - get job info success!
+2019-04-29 15:27:39,815 - INFO - spider url:https://jobs.zhaopin.com/CC365861515J00117350009.htm
+2019-04-29 15:27:40,059 - INFO - get job info success!
+2019-04-29 15:27:40,060 - INFO - spider url:https://jobs.zhaopin.com/CZ623861580J00096215111.htm
+2019-04-29 15:27:40,307 - INFO - get job info success!
+2019-04-29 15:27:40,308 - INFO - spider url:https://jobs.zhaopin.com/CC365298317J00147735511.htm
+2019-04-29 15:27:40,548 - INFO - get job info success!
+2019-04-29 15:27:40,549 - INFO - spider url:https://jobs.zhaopin.com/CZ830693280J00121599215.htm
+2019-04-29 15:27:40,996 - INFO - get job info success!
+2019-04-29 15:27:40,998 - INFO - spider url:https://jobs.zhaopin.com/CC155111813J00130731109.htm
+2019-04-29 15:27:41,240 - INFO - get job info success!
+2019-04-29 15:27:41,241 - INFO - spider url:https://jobs.zhaopin.com/CC394601721J00109176005.htm
+2019-04-29 15:27:41,407 - INFO - get job info success!
+2019-04-29 15:27:41,408 - INFO - spider url:https://jobs.zhaopin.com/688623221250120.htm
+2019-04-29 15:27:41,508 - INFO - get job info success!
+2019-04-29 15:27:41,508 - INFO - spider url:https://jobs.zhaopin.com/CC839263840J00119415612.htm
+2019-04-29 15:27:41,662 - INFO - get job info success!
+2019-04-29 15:27:41,663 - INFO - spider url:https://jobs.zhaopin.com/CC700564330J00132342615.htm
+2019-04-29 15:27:41,895 - INFO - get job info success!
+2019-04-29 15:27:41,896 - INFO - spider url:https://jobs.zhaopin.com/CC177145326J00320963305.htm
+2019-04-29 15:27:42,043 - INFO - get job info success!
+2019-04-29 15:27:42,044 - INFO - spider url:https://jobs.zhaopin.com/377254511250316.htm
+2019-04-29 15:27:42,308 - INFO - get job info success!
+2019-04-29 15:27:42,309 - INFO - spider url:https://jobs.zhaopin.com/CC700564330J00131754315.htm
+2019-04-29 15:27:42,553 - INFO - get job info success!
+2019-04-29 15:27:42,554 - INFO - spider url:https://jobs.zhaopin.com/CC650137330J00134664510.htm
+2019-04-29 15:27:42,936 - INFO - get job info success!
+2019-04-29 15:27:42,938 - INFO - spider url:https://jobs.zhaopin.com/CC579581520J00135472609.htm
+2019-04-29 15:27:43,301 - INFO - get job info success!
+2019-04-29 15:27:43,302 - INFO - spider url:https://jobs.zhaopin.com/CC537334129J00267169605.htm
+2019-04-29 15:27:43,434 - INFO - get job info success!
+2019-04-29 15:27:43,435 - INFO - spider url:https://jobs.zhaopin.com/CC839263840J00117200512.htm
+2019-04-29 15:27:43,742 - INFO - get job info success!
+2019-04-29 15:27:43,744 - INFO - spider url:https://jobs.zhaopin.com/CC817677620J00128336215.htm
+2019-04-29 15:27:43,976 - INFO - get job info success!
+2019-04-29 15:27:43,978 - INFO - spider url:https://jobs.zhaopin.com/CC385330686J00325717905.htm
+2019-04-29 15:27:44,143 - INFO - get job info success!
+2019-04-29 15:27:44,145 - INFO - spider url:https://jobs.zhaopin.com/CC472162124J00240746005.htm
+2019-04-29 15:27:44,257 - INFO - get job info success!
+2019-04-29 15:27:44,258 - INFO - spider url:https://jobs.zhaopin.com/CC361824813J00130628302.htm
+2019-04-29 15:27:44,438 - INFO - get job info success!
+2019-04-29 15:27:44,439 - INFO - spider url:https://jobs.zhaopin.com/CC361824813J00233240502.htm
+2019-04-29 15:27:44,613 - INFO - get job info success!
+2019-04-29 15:27:44,614 - INFO - spider url:https://jobs.zhaopin.com/CC589143427J00136491707.htm
+2019-04-29 15:27:44,776 - INFO - get job info success!
+2019-04-29 15:27:44,777 - INFO - spider url:https://jobs.zhaopin.com/CC361824813J00130612802.htm
+2019-04-29 15:27:44,947 - INFO - get job info success!
+2019-04-29 15:27:44,949 - INFO - spider url:https://jobs.zhaopin.com/CC327037487J00114558809.htm
+2019-04-29 15:27:45,174 - INFO - get job info success!
+2019-04-29 15:27:45,175 - INFO - spider url:https://jobs.zhaopin.com/CZ131931980J00361752801.htm
+2019-04-29 15:27:45,368 - INFO - get job info success!
+2019-04-29 15:27:45,369 - INFO - spider url:https://jobs.zhaopin.com/380113183250059.htm
+2019-04-29 15:27:45,583 - INFO - get job info success!
+2019-04-29 15:27:45,584 - INFO - spider url:https://jobs.zhaopin.com/467352913251201.htm
+2019-04-29 15:27:45,922 - INFO - get job info success!
+2019-04-29 15:27:45,923 - INFO - spider url:https://jobs.zhaopin.com/CC427163483J00052350812.htm
+2019-04-29 15:27:46,312 - INFO - get job info success!
+2019-04-29 15:27:46,313 - INFO - spider start:180
+2019-04-29 15:27:46,314 - INFO - get current page all job urls...
+2019-04-29 15:27:47,054 - INFO - get current page all job urls √:60
+2019-04-29 15:27:47,055 - INFO - spider url:https://jobs.zhaopin.com/CC178087823J00316637407.htm
+2019-04-29 15:27:47,272 - INFO - get job info success!
+2019-04-29 15:27:47,273 - INFO - spider url:https://jobs.zhaopin.com/CC859060280J00122980014.htm
+2019-04-29 15:27:47,550 - INFO - get job info success!
+2019-04-29 15:27:47,551 - INFO - spider url:https://jobs.zhaopin.com/CC857164780J00129006310.htm
+2019-04-29 15:27:47,875 - INFO - get job info success!
+2019-04-29 15:27:47,876 - INFO - spider url:https://jobs.zhaopin.com/CC434476818J00175333502.htm
+2019-04-29 15:27:48,417 - INFO - get job info success!
+2019-04-29 15:27:48,418 - INFO - spider url:https://jobs.zhaopin.com/CC510172580J00109231114.htm
+2019-04-29 15:27:48,754 - INFO - get job info success!
+2019-04-29 15:27:48,755 - INFO - spider url:https://jobs.zhaopin.com/CC570701729J00166876105.htm
+2019-04-29 15:27:49,003 - INFO - get job info success!
+2019-04-29 15:27:49,004 - INFO - spider url:https://jobs.zhaopin.com/186653927251364.htm
+2019-04-29 15:27:49,178 - INFO - get job info success!
+2019-04-29 15:27:49,179 - INFO - spider url:https://jobs.zhaopin.com/CC402799716J00151170613.htm
+2019-04-29 15:27:49,442 - INFO - get job info success!
+2019-04-29 15:27:49,442 - INFO - spider url:https://jobs.zhaopin.com/409787436250011.htm
+2019-04-29 15:27:49,559 - INFO - get job info success!
+2019-04-29 15:27:49,560 - INFO - spider url:https://jobs.zhaopin.com/CC652966420J00100878614.htm
+2019-04-29 15:27:49,821 - INFO - get job info success!
+2019-04-29 15:27:49,822 - INFO - spider url:https://jobs.zhaopin.com/CC405839980J00319836007.htm
+2019-04-29 15:27:50,009 - INFO - get job info success!
+2019-04-29 15:27:50,010 - INFO - spider url:https://jobs.zhaopin.com/CZ665979430J00030663715.htm
+2019-04-29 15:27:50,200 - INFO - get job info success!
+2019-04-29 15:27:50,201 - INFO - spider url:https://jobs.zhaopin.com/CC380673480J00144868513.htm
+2019-04-29 15:27:50,455 - INFO - get job info success!
+2019-04-29 15:27:50,456 - INFO - spider url:https://jobs.zhaopin.com/CC327037487J00082497509.htm
+2019-04-29 15:27:50,707 - INFO - get job info success!
+2019-04-29 15:27:50,708 - INFO - spider url:https://jobs.zhaopin.com/CZ131931980J00361746701.htm
+2019-04-29 15:27:51,022 - INFO - get job info success!
+2019-04-29 15:27:51,023 - INFO - spider url:https://jobs.zhaopin.com/CZ653414420J00072918514.htm
+2019-04-29 15:27:51,277 - INFO - get job info success!
+2019-04-29 15:27:51,278 - INFO - spider url:https://jobs.zhaopin.com/CZ653414420J00094041614.htm
+2019-04-29 15:27:51,545 - INFO - get job info success!
+2019-04-29 15:27:51,546 - INFO - spider url:https://jobs.zhaopin.com/CC551360087J00149842113.htm
+2019-04-29 15:27:51,864 - INFO - get job info success!
+2019-04-29 15:27:51,865 - INFO - spider url:https://jobs.zhaopin.com/CC477894931J00211637206.htm
+2019-04-29 15:27:52,015 - INFO - get job info success!
+2019-04-29 15:27:52,016 - INFO - spider url:https://jobs.zhaopin.com/CC627597022J00318193407.htm
+2019-04-29 15:27:52,354 - INFO - get job info success!
+2019-04-29 15:27:52,355 - INFO - spider url:https://jobs.zhaopin.com/CC522584883J00165998311.htm
+2019-04-29 15:27:52,609 - INFO - get job info success!
+2019-04-29 15:27:52,610 - INFO - spider url:https://jobs.zhaopin.com/134022113255460.htm
+2019-04-29 15:27:52,784 - INFO - get job info success!
+2019-04-29 15:27:52,785 - INFO - spider url:https://jobs.zhaopin.com/CC379636212J00180442906.htm
+2019-04-29 15:27:53,061 - INFO - get job info success!
+2019-04-29 15:27:53,063 - INFO - spider url:https://jobs.zhaopin.com/CZ505282520J00331455105.htm
+2019-04-29 15:27:53,297 - INFO - get job info success!
+2019-04-29 15:27:53,298 - INFO - spider url:https://jobs.zhaopin.com/412937719250030.htm
+2019-04-29 15:27:53,532 - INFO - get job info success!
+2019-04-29 15:27:53,533 - INFO - spider url:https://jobs.zhaopin.com/178738520250616.htm
+2019-04-29 15:27:53,734 - INFO - get job info success!
+2019-04-29 15:27:53,735 - INFO - spider url:https://jobs.zhaopin.com/619043521250038.htm
+2019-04-29 15:27:54,270 - INFO - get job info success!
+2019-04-29 15:27:54,272 - INFO - spider url:https://jobs.zhaopin.com/CC272701388J00307920303.htm
+2019-04-29 15:27:54,511 - INFO - get job info success!
+2019-04-29 15:27:54,512 - INFO - spider url:https://jobs.zhaopin.com/CC365861515J00117295209.htm
+2019-04-29 15:27:54,730 - INFO - get job info success!
+2019-04-29 15:27:54,731 - INFO - spider url:https://jobs.zhaopin.com/CC342724738J00130448902.htm
+2019-04-29 15:27:54,975 - INFO - get job info success!
+2019-04-29 15:27:54,976 - INFO - spider url:https://jobs.zhaopin.com/CC327037487J00135610509.htm
+2019-04-29 15:27:55,182 - INFO - get job info success!
+2019-04-29 15:27:55,183 - INFO - spider url:https://jobs.zhaopin.com/CZ774676560J00135052709.htm
+2019-04-29 15:27:55,425 - INFO - get job info success!
+2019-04-29 15:27:55,426 - INFO - spider url:https://jobs.zhaopin.com/438003038250020.htm
+2019-04-29 15:27:55,659 - INFO - get job info success!
+2019-04-29 15:27:55,660 - INFO - spider url:https://jobs.zhaopin.com/CC213969611J00248320402.htm
+2019-04-29 15:27:55,833 - INFO - get job info success!
+2019-04-29 15:27:55,834 - INFO - spider url:https://jobs.zhaopin.com/CC479957637J00150176313.htm
+2019-04-29 15:27:56,039 - INFO - get job info success!
+2019-04-29 15:27:56,041 - INFO - spider url:https://jobs.zhaopin.com/452396612250273.htm
+2019-04-29 15:27:56,252 - INFO - get job info success!
+2019-04-29 15:27:56,254 - INFO - spider url:https://jobs.zhaopin.com/CC700564330J00131747515.htm
+2019-04-29 15:27:56,540 - INFO - get job info success!
+2019-04-29 15:27:56,541 - INFO - spider url:https://jobs.zhaopin.com/CC348610930J00194085706.htm
+2019-04-29 15:27:56,793 - INFO - get job info success!
+2019-04-29 15:27:56,794 - INFO - spider url:https://jobs.zhaopin.com/CC175270725J00347358701.htm
+2019-04-29 15:27:57,049 - INFO - get job info success!
+2019-04-29 15:27:57,051 - INFO - spider url:https://jobs.zhaopin.com/CC567910130J00132560915.htm
+2019-04-29 15:27:57,412 - INFO - get job info success!
+2019-04-29 15:27:57,413 - INFO - spider url:https://jobs.zhaopin.com/CC582208321J00372097101.htm
+2019-04-29 15:27:57,585 - INFO - get job info success!
+2019-04-29 15:27:57,587 - INFO - spider url:https://jobs.zhaopin.com/CC208259635J00233657004.htm
+2019-04-29 15:27:57,820 - INFO - get job info success!
+2019-04-29 15:27:57,821 - INFO - spider url:https://jobs.zhaopin.com/302242235250039.htm
+2019-04-29 15:27:58,059 - INFO - get job info success!
+2019-04-29 15:27:58,060 - INFO - spider url:https://jobs.zhaopin.com/CC466393425J00260775107.htm
+2019-04-29 15:27:58,324 - INFO - get job info success!
+2019-04-29 15:27:58,325 - INFO - spider url:https://jobs.zhaopin.com/619043521250035.htm
+2019-04-29 15:27:58,466 - INFO - get job info success!
+2019-04-29 15:27:58,468 - INFO - spider url:https://jobs.zhaopin.com/CZ448035780J00116837710.htm
+2019-04-29 15:27:58,652 - INFO - get job info success!
+2019-04-29 15:27:58,654 - INFO - spider url:https://jobs.zhaopin.com/348610930250091.htm
+2019-04-29 15:27:58,938 - INFO - get job info success!
+2019-04-29 15:27:58,939 - INFO - spider url:https://jobs.zhaopin.com/193715629250106.htm
+2019-04-29 15:27:59,183 - INFO - get job info success!
+2019-04-29 15:27:59,183 - INFO - spider url:https://jobs.zhaopin.com/CC272701388J00177110803.htm
+2019-04-29 15:27:59,282 - INFO - get job info success!
+2019-04-29 15:27:59,283 - INFO - spider url:https://jobs.zhaopin.com/295791382250005.htm
+2019-04-29 15:27:59,540 - INFO - get job info success!
+2019-04-29 15:27:59,542 - INFO - spider url:https://jobs.zhaopin.com/CC634102530J00113825613.htm
+2019-04-29 15:27:59,712 - INFO - get job info success!
+2019-04-29 15:27:59,714 - INFO - spider url:https://jobs.zhaopin.com/CC453479588J00130075314.htm
+2019-04-29 15:28:00,086 - INFO - get job info success!
+2019-04-29 15:28:00,087 - INFO - spider url:https://jobs.zhaopin.com/CC331264830J00111267514.htm
+2019-04-29 15:28:00,396 - INFO - get job info success!
+2019-04-29 15:28:00,398 - INFO - spider url:https://jobs.zhaopin.com/CZ457527130J00120663115.htm
+2019-04-29 15:28:00,628 - INFO - get job info success!
+2019-04-29 15:28:00,629 - INFO - spider url:https://jobs.zhaopin.com/CC859060280J00122980914.htm
+2019-04-29 15:28:00,924 - INFO - get job info success!
+2019-04-29 15:28:00,925 - INFO - spider url:https://jobs.zhaopin.com/CC219197618J00131456612.htm
+2019-04-29 15:28:01,055 - INFO - get job info success!
+2019-04-29 15:28:01,056 - INFO - spider url:https://jobs.zhaopin.com/CC408644084J00370266001.htm
+2019-04-29 15:28:01,226 - INFO - get job info success!
+2019-04-29 15:28:01,227 - INFO - spider url:https://jobs.zhaopin.com/CC664214030J00237075804.htm
+2019-04-29 15:28:01,493 - INFO - get job info success!
+2019-04-29 15:28:01,495 - INFO - spider url:https://jobs.zhaopin.com/CC609827531J00074286802.htm
+2019-04-29 15:28:01,848 - INFO - get job info success!
+2019-04-29 15:28:01,848 - INFO - spider start:240
+2019-04-29 15:28:01,848 - INFO - get current page all job urls...
+2019-04-29 15:28:02,540 - INFO - get current page all job urls √:58
+2019-04-29 15:28:02,541 - INFO - spider url:https://jobs.zhaopin.com/CC208259635J00233573104.htm
+2019-04-29 15:28:02,794 - INFO - get job info success!
+2019-04-29 15:28:02,795 - INFO - spider url:https://jobs.zhaopin.com/CC432188313J00236840708.htm
+2019-04-29 15:28:03,062 - INFO - get job info success!
+2019-04-29 15:28:03,063 - INFO - spider url:https://jobs.zhaopin.com/428629010250252.htm
+2019-04-29 15:28:03,279 - INFO - get job info success!
+2019-04-29 15:28:03,281 - INFO - spider url:https://jobs.zhaopin.com/CC131318963J00138514610.htm
+2019-04-29 15:28:03,541 - INFO - get job info success!
+2019-04-29 15:28:03,543 - INFO - spider url:https://jobs.zhaopin.com/CC508194830J00245743104.htm
+2019-04-29 15:28:03,793 - INFO - get job info success!
+2019-04-29 15:28:03,794 - INFO - spider url:https://jobs.zhaopin.com/CC388401281J00231791301.htm
+2019-04-29 15:28:04,064 - INFO - get job info success!
+2019-04-29 15:28:04,065 - INFO - spider url:https://jobs.zhaopin.com/CC319301532J00193553702.htm
+2019-04-29 15:28:04,301 - INFO - get job info success!
+2019-04-29 15:28:04,302 - INFO - spider url:https://jobs.zhaopin.com/CC383625322J00060879413.htm
+2019-04-29 15:28:04,446 - INFO - get job info success!
+2019-04-29 15:28:04,448 - INFO - spider url:https://jobs.zhaopin.com/452028122250217.htm
+2019-04-29 15:28:04,719 - INFO - get job info success!
+2019-04-29 15:28:04,720 - INFO - spider url:https://jobs.zhaopin.com/145997496250289.htm
+2019-04-29 15:28:05,000 - INFO - get job info success!
+2019-04-29 15:28:05,001 - INFO - spider url:https://jobs.zhaopin.com/CC369202014J00203563602.htm
+2019-04-29 15:28:05,193 - INFO - get job info success!
+2019-04-29 15:28:05,194 - INFO - spider url:https://jobs.zhaopin.com/262352487250037.htm
+2019-04-29 15:28:05,461 - INFO - get job info success!
+2019-04-29 15:28:05,462 - INFO - spider url:https://jobs.zhaopin.com/213915110250170.htm
+2019-04-29 15:28:05,773 - INFO - get job info success!
+2019-04-29 15:28:05,774 - INFO - spider url:https://jobs.zhaopin.com/CZ640677380J00136478809.htm
+2019-04-29 15:28:05,999 - INFO - get job info success!
+2019-04-29 15:28:06,000 - INFO - spider url:https://jobs.zhaopin.com/CZ571487230J00041437711.htm
+2019-04-29 15:28:06,249 - INFO - get job info success!
+2019-04-29 15:28:06,250 - INFO - spider url:https://jobs.zhaopin.com/CC558005822J00140529210.htm
+2019-04-29 15:28:06,468 - INFO - get job info success!
+2019-04-29 15:28:06,470 - INFO - spider url:https://jobs.zhaopin.com/CC361824813J00243680202.htm
+2019-04-29 15:28:06,645 - INFO - get job info success!
+2019-04-29 15:28:06,646 - INFO - spider url:https://jobs.zhaopin.com/697730426252433.htm
+2019-04-29 15:28:06,874 - INFO - get job info success!
+2019-04-29 15:28:06,875 - INFO - spider url:https://jobs.zhaopin.com/697730426252320.htm
+2019-04-29 15:28:07,116 - INFO - get job info success!
+2019-04-29 15:28:07,117 - INFO - spider url:https://jobs.zhaopin.com/CC688310727J00343066601.htm
+2019-04-29 15:28:07,402 - INFO - get job info success!
+2019-04-29 15:28:07,403 - INFO - spider url:https://jobs.zhaopin.com/CC859060280J00133014414.htm
+2019-04-29 15:28:07,567 - INFO - get job info success!
+2019-04-29 15:28:07,568 - INFO - spider url:https://jobs.zhaopin.com/CC688310727J00343067801.htm
+2019-04-29 15:28:08,026 - INFO - get job info success!
+2019-04-29 15:28:08,027 - INFO - spider url:https://jobs.zhaopin.com/CC819976030J00161122611.htm
+2019-04-29 15:28:08,278 - INFO - get job info success!
+2019-04-29 15:28:08,279 - INFO - spider url:https://jobs.zhaopin.com/CC279171038J00073974108.htm
+2019-04-29 15:28:08,560 - INFO - get job info success!
+2019-04-29 15:28:08,561 - INFO - spider url:https://jobs.zhaopin.com/CC819976030J00136397211.htm
+2019-04-29 15:28:08,805 - INFO - get job info success!
+2019-04-29 15:28:08,806 - INFO - spider url:https://jobs.zhaopin.com/CC819976030J00154486511.htm
+2019-04-29 15:28:08,889 - INFO - get job info success!
+2019-04-29 15:28:08,890 - INFO - spider url:https://jobs.zhaopin.com/CC819976030J00130161211.htm
+2019-04-29 15:28:09,163 - INFO - get job info success!
+2019-04-29 15:28:09,164 - INFO - spider url:https://jobs.zhaopin.com/CZ178551820J00141796411.htm
+2019-04-29 15:28:09,472 - INFO - get job info success!
+2019-04-29 15:28:09,473 - INFO - spider url:https://jobs.zhaopin.com/CC120004576J00058775909.htm
+2019-04-29 15:28:09,719 - INFO - get job info success!
+2019-04-29 15:28:09,720 - INFO - spider url:https://jobs.zhaopin.com/CC633142422J00307409103.htm
+2019-04-29 15:28:09,958 - INFO - get job info success!
+2019-04-29 15:28:09,959 - INFO - spider url:https://jobs.zhaopin.com/CC290569135J00236636202.htm
+2019-04-29 15:28:10,269 - INFO - get job info success!
+2019-04-29 15:28:10,270 - INFO - spider url:https://jobs.zhaopin.com/CC000636294J00205203806.htm
+2019-04-29 15:28:10,675 - INFO - get job info success!
+2019-04-29 15:28:10,675 - INFO - spider url:https://jobs.zhaopin.com/CC205908111J00242079504.htm
+2019-04-29 15:28:10,912 - INFO - get job info success!
+2019-04-29 15:28:10,912 - INFO - spider url:https://jobs.zhaopin.com/CC120835179J00114160714.htm
+2019-04-29 15:28:11,423 - INFO - get job info success!
+2019-04-29 15:28:11,424 - INFO - spider url:https://jobs.zhaopin.com/CC120004576J00129911009.htm
+2019-04-29 15:28:11,590 - INFO - get job info success!
+2019-04-29 15:28:11,591 - INFO - spider url:https://jobs.zhaopin.com/CC000636294J00205207306.htm
+2019-04-29 15:28:12,187 - INFO - get job info success!
+2019-04-29 15:28:12,189 - INFO - spider url:https://jobs.zhaopin.com/CC000593049J00116573615.htm
+2019-04-29 15:28:12,430 - INFO - get job info success!
+2019-04-29 15:28:12,431 - INFO - spider url:https://jobs.zhaopin.com/CC297686812J00195511402.htm
+2019-04-29 15:28:12,739 - INFO - get job info success!
+2019-04-29 15:28:12,740 - INFO - spider url:https://jobs.zhaopin.com/CC297686812J00195518702.htm
+2019-04-29 15:28:13,053 - INFO - get job info success!
+2019-04-29 15:28:13,054 - INFO - spider url:https://jobs.zhaopin.com/297686812250812.htm
+2019-04-29 15:28:13,285 - INFO - get job info success!
+2019-04-29 15:28:13,286 - INFO - spider url:https://jobs.zhaopin.com/CC542265423J00244175407.htm
+2019-04-29 15:28:13,375 - INFO - get job info success!
+2019-04-29 15:28:13,376 - INFO - spider url:https://jobs.zhaopin.com/CC145756075J00176347408.htm
+2019-04-29 15:28:13,819 - INFO - get job info success!
+2019-04-29 15:28:13,820 - INFO - spider url:https://jobs.zhaopin.com/CC818838730J00141294410.htm
+2019-04-29 15:28:14,059 - INFO - get job info success!
+2019-04-29 15:28:14,060 - INFO - spider url:https://jobs.zhaopin.com/CC000542945J00253404405.htm
+2019-04-29 15:28:14,463 - INFO - get job info success!
+2019-04-29 15:28:14,464 - INFO - spider url:https://jobs.zhaopin.com/CC297686812J00195483202.htm
+2019-04-29 15:28:14,744 - INFO - get job info success!
+2019-04-29 15:28:14,745 - INFO - spider url:https://jobs.zhaopin.com/CC345704188J00140839610.htm
+2019-04-29 15:28:15,002 - INFO - get job info success!
+2019-04-29 15:28:15,004 - INFO - spider url:https://jobs.zhaopin.com/CC383625322J00063725313.htm
+2019-04-29 15:28:15,231 - INFO - get job info success!
+2019-04-29 15:28:15,232 - INFO - spider url:https://jobs.zhaopin.com/265763734250024.htm
+2019-04-29 15:28:15,444 - INFO - get job info success!
+2019-04-29 15:28:15,445 - INFO - spider url:https://jobs.zhaopin.com/CC120835179J00114163614.htm
+2019-04-29 15:28:15,841 - INFO - get job info success!
+2019-04-29 15:28:15,842 - INFO - spider url:https://jobs.zhaopin.com/CC000025063J00132068609.htm
+2019-04-29 15:28:16,093 - INFO - get job info success!
+2019-04-29 15:28:16,095 - INFO - spider url:https://jobs.zhaopin.com/CC120197367J00103566510.htm
+2019-04-29 15:28:16,250 - INFO - get job info success!
+2019-04-29 15:28:16,251 - INFO - spider url:https://jobs.zhaopin.com/CC000636294J00158755606.htm
+2019-04-29 15:28:16,489 - INFO - get job info success!
+2019-04-29 15:28:16,491 - INFO - spider url:https://jobs.zhaopin.com/CC439773719J00251298508.htm
+2019-04-29 15:28:16,782 - INFO - get job info success!
+2019-04-29 15:28:16,783 - INFO - spider url:https://jobs.zhaopin.com/CC452457033J00240572208.htm
+2019-04-29 15:28:17,049 - INFO - get job info success!
+2019-04-29 15:28:17,051 - INFO - spider url:https://jobs.zhaopin.com/CC818838730J00141296810.htm
+2019-04-29 15:28:17,369 - INFO - get job info success!
+2019-04-29 15:28:17,370 - INFO - spider url:https://jobs.zhaopin.com/CC518376834J00241743204.htm
+2019-04-29 15:28:17,600 - INFO - get job info success!
+2019-04-29 15:28:17,601 - INFO - spider url:https://jobs.zhaopin.com/CC393703880J00293739705.htm
+2019-04-29 15:28:17,872 - INFO - get job info success!
+2019-04-29 15:28:17,873 - INFO - spider url:https://jobs.zhaopin.com/CC468642020J00291960703.htm
+2019-04-29 15:28:18,018 - INFO - get job info success!
+2019-04-29 15:28:18,019 - INFO - spider start:300
+2019-04-29 15:28:18,020 - INFO - get current page all job urls...
+2019-04-29 15:28:18,766 - INFO - get current page all job urls √:60
+2019-04-29 15:28:18,767 - INFO - spider url:https://jobs.zhaopin.com/CC132189574J00114470606.htm
+2019-04-29 15:28:19,049 - INFO - get job info success!
+2019-04-29 15:28:19,050 - INFO - spider url:https://jobs.zhaopin.com/CC000619480J00291775707.htm
+2019-04-29 15:28:19,276 - INFO - get job info success!
+2019-04-29 15:28:19,277 - INFO - spider url:https://jobs.zhaopin.com/CC199141123J00344919901.htm
+2019-04-29 15:28:19,543 - INFO - get job info success!
+2019-04-29 15:28:19,544 - INFO - spider url:https://jobs.zhaopin.com/CC349646015J00224077002.htm
+2019-04-29 15:28:19,696 - INFO - get job info success!
+2019-04-29 15:28:19,697 - INFO - spider url:https://jobs.zhaopin.com/CC603360530J00132034710.htm
+2019-04-29 15:28:19,916 - INFO - get job info success!
+2019-04-29 15:28:19,917 - INFO - spider url:https://jobs.zhaopin.com/CC531185089J00162613511.htm
+2019-04-29 15:28:20,143 - INFO - get job info success!
+2019-04-29 15:28:20,145 - INFO - spider url:https://jobs.zhaopin.com/CC349646015J00209186802.htm
+2019-04-29 15:28:20,332 - INFO - get job info success!
+2019-04-29 15:28:20,333 - INFO - spider url:https://jobs.zhaopin.com/CC349646015J00224076902.htm
+2019-04-29 15:28:20,488 - INFO - get job info success!
+2019-04-29 15:28:20,489 - INFO - spider url:https://jobs.zhaopin.com/351854210250308.htm
+2019-04-29 15:28:20,674 - INFO - get job info success!
+2019-04-29 15:28:20,675 - INFO - spider url:https://jobs.zhaopin.com/CC468642020J00291958303.htm
+2019-04-29 15:28:20,926 - INFO - get job info success!
+2019-04-29 15:28:20,927 - INFO - spider url:https://jobs.zhaopin.com/CC649796521J00132376112.htm
+2019-04-29 15:28:21,212 - INFO - get job info success!
+2019-04-29 15:28:21,213 - INFO - spider url:https://jobs.zhaopin.com/CC603360530J00090705210.htm
+2019-04-29 15:28:21,335 - INFO - get job info success!
+2019-04-29 15:28:21,336 - INFO - spider url:https://jobs.zhaopin.com/CC507035227J00167978511.htm
+2019-04-29 15:28:21,564 - INFO - get job info success!
+2019-04-29 15:28:21,565 - INFO - spider url:https://jobs.zhaopin.com/CC815420790J00132386612.htm
+2019-04-29 15:28:21,834 - INFO - get job info success!
+2019-04-29 15:28:21,835 - INFO - spider url:https://jobs.zhaopin.com/CC393703880J00147176905.htm
+2019-04-29 15:28:22,278 - INFO - get job info success!
+2019-04-29 15:28:22,279 - INFO - spider url:https://jobs.zhaopin.com/CC133205180J00151064107.htm
+2019-04-29 15:28:22,430 - INFO - get job info success!
+2019-04-29 15:28:22,430 - INFO - spider url:https://jobs.zhaopin.com/CC371931534J00050665402.htm
+2019-04-29 15:28:22,632 - INFO - get job info success!
+2019-04-29 15:28:22,632 - INFO - spider url:https://jobs.zhaopin.com/CC393703880J00293738905.htm
+2019-04-29 15:28:22,893 - INFO - get job info success!
+2019-04-29 15:28:22,893 - INFO - spider url:https://jobs.zhaopin.com/CZ399264530J00147918206.htm
+2019-04-29 15:28:23,222 - INFO - get job info success!
+2019-04-29 15:28:23,223 - INFO - spider url:https://jobs.zhaopin.com/CC393703880J00147172905.htm
+2019-04-29 15:28:23,490 - INFO - get job info success!
+2019-04-29 15:28:23,491 - INFO - spider url:https://jobs.zhaopin.com/CC444252818J00149881702.htm
+2019-04-29 15:28:23,657 - INFO - get job info success!
+2019-04-29 15:28:23,658 - INFO - spider url:https://jobs.zhaopin.com/CC679322686J00130262914.htm
+2019-04-29 15:28:23,962 - INFO - get job info success!
+2019-04-29 15:28:23,963 - INFO - spider url:https://jobs.zhaopin.com/CC468642020J00304439203.htm
+2019-04-29 15:28:24,162 - INFO - get job info success!
+2019-04-29 15:28:24,164 - INFO - spider url:https://jobs.zhaopin.com/CC468642020J00290994103.htm
+2019-04-29 15:28:24,422 - INFO - get job info success!
+2019-04-29 15:28:24,423 - INFO - spider url:https://jobs.zhaopin.com/199141123251142.htm
+2019-04-29 15:28:24,650 - INFO - get job info success!
+2019-04-29 15:28:24,652 - INFO - spider url:https://jobs.zhaopin.com/CC151720116J00133094710.htm
+2019-04-29 15:28:24,906 - INFO - get job info success!
+2019-04-29 15:28:24,907 - INFO - spider url:https://jobs.zhaopin.com/CC603360530J00089434610.htm
+2019-04-29 15:28:25,055 - INFO - get job info success!
+2019-04-29 15:28:25,056 - INFO - spider url:https://jobs.zhaopin.com/CC468642020J00290994603.htm
+2019-04-29 15:28:25,316 - INFO - get job info success!
+2019-04-29 15:28:25,318 - INFO - spider url:https://jobs.zhaopin.com/CC383766936J00090493814.htm
+2019-04-29 15:28:25,496 - INFO - get job info success!
+2019-04-29 15:28:25,496 - INFO - spider url:https://jobs.zhaopin.com/CC271605110J00103475409.htm
+2019-04-29 15:28:26,163 - INFO - get job info success!
+2019-04-29 15:28:26,164 - INFO - spider url:https://jobs.zhaopin.com/CC468642020J00304439603.htm
+2019-04-29 15:28:26,506 - INFO - get job info success!
+2019-04-29 15:28:26,507 - INFO - spider url:https://jobs.zhaopin.com/480057980250135.htm
+2019-04-29 15:28:26,863 - INFO - get job info success!
+2019-04-29 15:28:26,864 - INFO - spider url:https://jobs.zhaopin.com/CC468642020J00290626303.htm
+2019-04-29 15:28:27,055 - INFO - get job info success!
+2019-04-29 15:28:27,056 - INFO - spider url:https://jobs.zhaopin.com/CC603360530J00136253210.htm
+2019-04-29 15:28:27,378 - INFO - get job info success!
+2019-04-29 15:28:27,379 - INFO - spider url:https://jobs.zhaopin.com/CC603360530J00119561910.htm
+2019-04-29 15:28:27,666 - INFO - get job info success!
+2019-04-29 15:28:27,668 - INFO - spider url:https://jobs.zhaopin.com/CC468642020J00290991403.htm
+2019-04-29 15:28:27,829 - INFO - get job info success!
+2019-04-29 15:28:27,830 - INFO - spider url:https://jobs.zhaopin.com/CC468642020J00290617203.htm
+2019-04-29 15:28:27,974 - INFO - get job info success!
+2019-04-29 15:28:27,976 - INFO - spider url:https://jobs.zhaopin.com/CC603360530J00134034010.htm
+2019-04-29 15:28:28,310 - INFO - get job info success!
+2019-04-29 15:28:28,312 - INFO - spider url:https://jobs.zhaopin.com/CC468642020J00298208103.htm
+2019-04-29 15:28:28,571 - INFO - get job info success!
+2019-04-29 15:28:28,572 - INFO - spider url:https://jobs.zhaopin.com/CC468642020J00298205503.htm
+2019-04-29 15:28:28,831 - INFO - get job info success!
+2019-04-29 15:28:28,833 - INFO - spider url:https://jobs.zhaopin.com/CC492730029J00300804803.htm
+2019-04-29 15:28:29,069 - INFO - get job info success!
+2019-04-29 15:28:29,070 - INFO - spider url:https://jobs.zhaopin.com/CC468642020J00291956403.htm
+2019-04-29 15:28:29,299 - INFO - get job info success!
+2019-04-29 15:28:29,300 - INFO - spider url:https://jobs.zhaopin.com/CC312019831J00233846408.htm
+2019-04-29 15:28:29,560 - INFO - get job info success!
+2019-04-29 15:28:29,561 - INFO - spider url:https://jobs.zhaopin.com/CC468642020J00290993403.htm
+2019-04-29 15:28:30,180 - INFO - get job info success!
+2019-04-29 15:28:30,181 - INFO - spider url:https://jobs.zhaopin.com/CC468642020J00291280503.htm
+2019-04-29 15:28:30,430 - INFO - get job info success!
+2019-04-29 15:28:30,431 - INFO - spider url:https://jobs.zhaopin.com/CZ536674420J00112802312.htm
+2019-04-29 15:28:30,568 - INFO - get job info success!
+2019-04-29 15:28:30,569 - INFO - spider url:https://jobs.zhaopin.com/CC468642020J00290615103.htm
+2019-04-29 15:28:30,890 - INFO - get job info success!
+2019-04-29 15:28:30,891 - INFO - spider url:https://jobs.zhaopin.com/CC468642020J00290993503.htm
+2019-04-29 15:28:31,136 - INFO - get job info success!
+2019-04-29 15:28:31,137 - INFO - spider url:https://jobs.zhaopin.com/CC846318080J00164268111.htm
+2019-04-29 15:28:31,483 - INFO - get job info success!
+2019-04-29 15:28:31,485 - INFO - spider url:https://jobs.zhaopin.com/CC468642020J00298209503.htm
+2019-04-29 15:28:31,689 - INFO - get job info success!
+2019-04-29 15:28:31,690 - INFO - spider url:https://jobs.zhaopin.com/CC468642020J00290991603.htm
+2019-04-29 15:28:32,096 - INFO - get job info success!
+2019-04-29 15:28:32,097 - INFO - spider url:https://jobs.zhaopin.com/CC468642020J00290651403.htm
+2019-04-29 15:28:32,401 - INFO - get job info success!
+2019-04-29 15:28:32,403 - INFO - spider url:https://jobs.zhaopin.com/CC468642020J00290637403.htm
+2019-04-29 15:28:32,602 - INFO - get job info success!
+2019-04-29 15:28:32,603 - INFO - spider url:https://jobs.zhaopin.com/CC468642020J00304477803.htm
+2019-04-29 15:28:32,772 - INFO - get job info success!
+2019-04-29 15:28:32,773 - INFO - spider url:https://jobs.zhaopin.com/CC468642020J00290626803.htm
+2019-04-29 15:28:32,979 - INFO - get job info success!
+2019-04-29 15:28:32,980 - INFO - spider url:https://jobs.zhaopin.com/284641387250407.htm
+2019-04-29 15:28:33,226 - INFO - get job info success!
+2019-04-29 15:28:33,227 - INFO - spider url:https://jobs.zhaopin.com/CC468642020J00287161403.htm
+2019-04-29 15:28:33,395 - INFO - get job info success!
+2019-04-29 15:28:33,396 - INFO - spider url:https://jobs.zhaopin.com/CC468642020J00298208503.htm
+2019-04-29 15:28:33,566 - INFO - get job info success!
+2019-04-29 15:28:33,566 - INFO - spider url:https://jobs.zhaopin.com/648311223250384.htm
+2019-04-29 15:28:33,748 - INFO - get job info success!
+2019-04-29 15:28:33,749 - INFO - spider url:https://jobs.zhaopin.com/CC468642020J00304482303.htm
+2019-04-29 15:28:34,037 - INFO - get job info success!
+2019-04-29 15:28:34,038 - INFO - spider start:360
+2019-04-29 15:28:34,039 - INFO - get current page all job urls...
+2019-04-29 15:28:34,966 - INFO - get current page all job urls √:60
+2019-04-29 15:28:34,967 - INFO - spider url:https://jobs.zhaopin.com/CC468642020J00287175603.htm
+2019-04-29 15:28:35,156 - INFO - get job info success!
+2019-04-29 15:28:35,157 - INFO - spider url:https://jobs.zhaopin.com/CC284641387J00180130003.htm
+2019-04-29 15:28:35,332 - INFO - get job info success!
+2019-04-29 15:28:35,333 - INFO - spider url:https://jobs.zhaopin.com/CC468642020J00291804703.htm
+2019-04-29 15:28:35,562 - INFO - get job info success!
+2019-04-29 15:28:35,563 - INFO - spider url:https://jobs.zhaopin.com/CC468642020J00290920003.htm
+2019-04-29 15:28:35,793 - INFO - get job info success!
+2019-04-29 15:28:35,794 - INFO - spider url:https://jobs.zhaopin.com/CC468642020J00290996503.htm
+2019-04-29 15:28:35,948 - INFO - get job info success!
+2019-04-29 15:28:35,949 - INFO - spider url:https://jobs.zhaopin.com/CC468642020J00291960803.htm
+2019-04-29 15:28:36,092 - INFO - get job info success!
+2019-04-29 15:28:36,093 - INFO - spider url:https://jobs.zhaopin.com/CC603360530J00130998410.htm
+2019-04-29 15:28:36,323 - INFO - get job info success!
+2019-04-29 15:28:36,325 - INFO - spider url:https://jobs.zhaopin.com/CC468642020J00290996803.htm
+2019-04-29 15:28:36,509 - INFO - get job info success!
+2019-04-29 15:28:36,510 - INFO - spider url:https://jobs.zhaopin.com/CC603360530J00132888510.htm
+2019-04-29 15:28:36,715 - INFO - get job info success!
+2019-04-29 15:28:36,716 - INFO - spider url:https://jobs.zhaopin.com/CC603360530J00131747410.htm
+2019-04-29 15:28:37,033 - INFO - get job info success!
+2019-04-29 15:28:37,035 - INFO - spider url:https://jobs.zhaopin.com/CC818838730J00132551410.htm
+2019-04-29 15:28:37,333 - INFO - get job info success!
+2019-04-29 15:28:37,334 - INFO - spider url:https://jobs.zhaopin.com/CC818838730J00131745810.htm
+2019-04-29 15:28:37,653 - INFO - get job info success!
+2019-04-29 15:28:37,655 - INFO - spider url:https://jobs.zhaopin.com/CC818838730J00132551610.htm
+2019-04-29 15:28:37,911 - INFO - get job info success!
+2019-04-29 15:28:37,913 - INFO - spider url:https://jobs.zhaopin.com/CC349646015J00188342202.htm
+2019-04-29 15:28:38,516 - INFO - get job info success!
+2019-04-29 15:28:38,518 - INFO - spider url:https://jobs.zhaopin.com/CZ399264530J00146793806.htm
+2019-04-29 15:28:38,816 - INFO - get job info success!
+2019-04-29 15:28:38,817 - INFO - spider url:https://jobs.zhaopin.com/CZ399264530J00148601306.htm
+2019-04-29 15:28:39,088 - INFO - get job info success!
+2019-04-29 15:28:39,089 - INFO - spider url:https://jobs.zhaopin.com/CC661273420J00044725210.htm
+2019-04-29 15:28:39,337 - INFO - get job info success!
+2019-04-29 15:28:39,337 - INFO - spider url:https://jobs.zhaopin.com/CZ399264530J00149005306.htm
+2019-04-29 15:28:39,843 - INFO - get job info success!
+2019-04-29 15:28:39,845 - INFO - spider url:https://jobs.zhaopin.com/206322616252007.htm
+2019-04-29 15:28:40,073 - INFO - get job info success!
+2019-04-29 15:28:40,075 - INFO - spider url:https://jobs.zhaopin.com/206322616252082.htm
+2019-04-29 15:28:40,631 - INFO - get job info success!
+2019-04-29 15:28:40,632 - INFO - spider url:https://jobs.zhaopin.com/206322616251994.htm
+2019-04-29 15:28:40,865 - INFO - get job info success!
+2019-04-29 15:28:40,867 - INFO - spider url:https://jobs.zhaopin.com/CC139673382J00300625303.htm
+2019-04-29 15:28:41,133 - INFO - get job info success!
+2019-04-29 15:28:41,134 - INFO - spider url:https://jobs.zhaopin.com/CC603360530J00090340410.htm
+2019-04-29 15:28:41,533 - INFO - get job info success!
+2019-04-29 15:28:41,534 - INFO - spider url:https://jobs.zhaopin.com/CC139673382J00186368503.htm
+2019-04-29 15:28:41,806 - INFO - get job info success!
+2019-04-29 15:28:41,807 - INFO - spider url:https://jobs.zhaopin.com/CC604422420J00034023009.htm
+2019-04-29 15:28:42,061 - INFO - get job info success!
+2019-04-29 15:28:42,063 - INFO - spider url:https://jobs.zhaopin.com/CC537334129J00180500605.htm
+2019-04-29 15:28:42,254 - INFO - get job info success!
+2019-04-29 15:28:42,255 - INFO - spider url:https://jobs.zhaopin.com/226581414250341.htm
+2019-04-29 15:28:42,499 - INFO - get job info success!
+2019-04-29 15:28:42,500 - INFO - spider url:https://jobs.zhaopin.com/CC468642020J00287170703.htm
+2019-04-29 15:28:42,646 - INFO - get job info success!
+2019-04-29 15:28:42,647 - INFO - spider url:https://jobs.zhaopin.com/CC178087823J00309014207.htm
+2019-04-29 15:28:42,881 - INFO - get job info success!
+2019-04-29 15:28:42,883 - INFO - spider url:https://jobs.zhaopin.com/CZ845122480J00133791611.htm
+2019-04-29 15:28:43,431 - INFO - get job info success!
+2019-04-29 15:28:43,433 - INFO - spider url:https://jobs.zhaopin.com/CC468642020J00290651203.htm
+2019-04-29 15:28:43,757 - INFO - get job info success!
+2019-04-29 15:28:43,759 - INFO - spider url:https://jobs.zhaopin.com/CC492338731J00116814002.htm
+2019-04-29 15:28:43,995 - INFO - get job info success!
+2019-04-29 15:28:43,996 - INFO - spider url:https://jobs.zhaopin.com/CC468642020J00290993003.htm
+2019-04-29 15:28:44,713 - INFO - get job info success!
+2019-04-29 15:28:44,715 - INFO - spider url:https://jobs.zhaopin.com/CC846525090J00133956613.htm
+2019-04-29 15:28:45,397 - INFO - get job info success!
+2019-04-29 15:28:45,398 - INFO - spider url:https://jobs.zhaopin.com/278984886250078.htm
+2019-04-29 15:28:45,612 - INFO - get job info success!
+2019-04-29 15:28:45,613 - INFO - spider url:https://jobs.zhaopin.com/CC604422420J00039378409.htm
+2019-04-29 15:28:45,874 - INFO - get job info success!
+2019-04-29 15:28:45,875 - INFO - spider url:https://jobs.zhaopin.com/604422420250708.htm
+2019-04-29 15:28:46,030 - INFO - get job info success!
+2019-04-29 15:28:46,032 - INFO - spider url:https://jobs.zhaopin.com/CC844342140J00110329813.htm
+2019-04-29 15:28:46,274 - INFO - get job info success!
+2019-04-29 15:28:46,275 - INFO - spider url:https://jobs.zhaopin.com/178087823257642.htm
+2019-04-29 15:28:46,553 - INFO - get job info success!
+2019-04-29 15:28:46,555 - INFO - spider url:https://jobs.zhaopin.com/CC844342140J00110485613.htm
+2019-04-29 15:28:46,790 - INFO - get job info success!
+2019-04-29 15:28:46,792 - INFO - spider url:https://jobs.zhaopin.com/CC268955837J00077024510.htm
+2019-04-29 15:28:47,038 - INFO - get job info success!
+2019-04-29 15:28:47,039 - INFO - spider url:https://jobs.zhaopin.com/CC604422420J00039377409.htm
+2019-04-29 15:28:47,299 - INFO - get job info success!
+2019-04-29 15:28:47,301 - INFO - spider url:https://jobs.zhaopin.com/CC627656430J00120487712.htm
+2019-04-29 15:28:47,554 - INFO - get job info success!
+2019-04-29 15:28:47,555 - INFO - spider url:https://jobs.zhaopin.com/CC000327562J00117069212.htm
+2019-04-29 15:28:47,782 - INFO - get job info success!
+2019-04-29 15:28:47,784 - INFO - spider url:https://jobs.zhaopin.com/CC492338731J00229703702.htm
+2019-04-29 15:28:47,998 - INFO - get job info success!
+2019-04-29 15:28:48,000 - INFO - spider url:https://jobs.zhaopin.com/CC468642020J00291958403.htm
+2019-04-29 15:28:48,247 - INFO - get job info success!
+2019-04-29 15:28:48,249 - INFO - spider url:https://jobs.zhaopin.com/604422420250696.htm
+2019-04-29 15:28:48,395 - INFO - get job info success!
+2019-04-29 15:28:48,396 - INFO - spider url:https://jobs.zhaopin.com/CC347488437J00132887812.htm
+2019-04-29 15:28:48,654 - INFO - get job info success!
+2019-04-29 15:28:48,655 - INFO - spider url:https://jobs.zhaopin.com/CC525941937J00087440410.htm
+2019-04-29 15:28:48,897 - INFO - get job info success!
+2019-04-29 15:28:48,899 - INFO - spider url:https://jobs.zhaopin.com/CC349646015J00239550102.htm
+2019-04-29 15:28:49,209 - INFO - get job info success!
+2019-04-29 15:28:49,210 - INFO - spider url:https://jobs.zhaopin.com/CC175270725J00313118801.htm
+2019-04-29 15:28:49,469 - INFO - get job info success!
+2019-04-29 15:28:49,470 - INFO - spider url:https://jobs.zhaopin.com/CC000327562J00117067612.htm
+2019-04-29 15:28:49,702 - INFO - get job info success!
+2019-04-29 15:28:49,703 - INFO - spider url:https://jobs.zhaopin.com/134022113255326.htm
+2019-04-29 15:28:49,893 - INFO - get job info success!
+2019-04-29 15:28:49,894 - INFO - spider url:https://jobs.zhaopin.com/CC151720116J00135306110.htm
+2019-04-29 15:28:50,156 - INFO - get job info success!
+2019-04-29 15:28:50,157 - INFO - spider url:https://jobs.zhaopin.com/CC380650112J00227113204.htm
+2019-04-29 15:28:50,427 - INFO - get job info success!
+2019-04-29 15:28:50,429 - INFO - spider url:https://jobs.zhaopin.com/302834915250584.htm
+2019-04-29 15:28:51,245 - INFO - get job info success!
+2019-04-29 15:28:51,247 - INFO - spider url:https://jobs.zhaopin.com/CC300125231J00228024804.htm
+2019-04-29 15:28:51,463 - INFO - get job info success!
+2019-04-29 15:28:51,464 - INFO - spider url:https://jobs.zhaopin.com/CC353498713J00251369308.htm
+2019-04-29 15:28:51,749 - INFO - get job info success!
+2019-04-29 15:28:51,750 - INFO - spider url:https://jobs.zhaopin.com/CC343632030J00136314809.htm
+2019-04-29 15:28:51,922 - INFO - get job info success!
+2019-04-29 15:28:51,923 - INFO - spider url:https://jobs.zhaopin.com/CC134022113J00106474113.htm
+2019-04-29 15:28:52,102 - INFO - get job info success!
+2019-04-29 15:28:52,104 - INFO - spider start:420
+2019-04-29 15:28:52,104 - INFO - get current page all job urls...
+2019-04-29 15:28:53,059 - INFO - get current page all job urls √:60
+2019-04-29 15:28:53,060 - INFO - spider url:https://jobs.zhaopin.com/CC627656430J00120485912.htm
+2019-04-29 15:28:53,669 - INFO - get job info success!
+2019-04-29 15:28:53,670 - INFO - spider url:https://jobs.zhaopin.com/CC206322616J00130258615.htm
+2019-04-29 15:28:53,884 - INFO - get job info success!
+2019-04-29 15:28:53,885 - INFO - spider url:https://jobs.zhaopin.com/CC000547273J00232368108.htm
+2019-04-29 15:28:54,073 - INFO - get job info success!
+2019-04-29 15:28:54,075 - INFO - spider url:https://jobs.zhaopin.com/CC376952682J00154980111.htm
+2019-04-29 15:28:54,421 - INFO - get job info success!
+2019-04-29 15:28:54,422 - INFO - spider url:https://jobs.zhaopin.com/CC818838730J00131195810.htm
+2019-04-29 15:28:54,613 - INFO - get job info success!
+2019-04-29 15:28:54,614 - INFO - spider url:https://jobs.zhaopin.com/225831323251655.htm
+2019-04-29 15:28:54,897 - INFO - get job info success!
+2019-04-29 15:28:54,899 - INFO - spider url:https://jobs.zhaopin.com/CZ822095550J00084937010.htm
+2019-04-29 15:28:55,135 - INFO - get job info success!
+2019-04-29 15:28:55,136 - INFO - spider url:https://jobs.zhaopin.com/CC813994520J00101269210.htm
+2019-04-29 15:28:55,436 - INFO - get job info success!
+2019-04-29 15:28:55,438 - INFO - spider url:https://jobs.zhaopin.com/CC261114785J00316206907.htm
+2019-04-29 15:28:55,687 - INFO - get job info success!
+2019-04-29 15:28:55,688 - INFO - spider url:https://jobs.zhaopin.com/CC828079600J00088987213.htm
+2019-04-29 15:28:55,997 - INFO - get job info success!
+2019-04-29 15:28:55,998 - INFO - spider url:https://jobs.zhaopin.com/CC609422180J00090136010.htm
+2019-04-29 15:28:56,146 - INFO - get job info success!
+2019-04-29 15:28:56,147 - INFO - spider url:https://jobs.zhaopin.com/CC392127021J00149980513.htm
+2019-04-29 15:28:56,342 - INFO - get job info success!
+2019-04-29 15:28:56,344 - INFO - spider url:https://jobs.zhaopin.com/CZ845122480J00139442911.htm
+2019-04-29 15:28:56,581 - INFO - get job info success!
+2019-04-29 15:28:56,582 - INFO - spider url:https://jobs.zhaopin.com/CZ822095550J00083415410.htm
+2019-04-29 15:28:56,840 - INFO - get job info success!
+2019-04-29 15:28:56,841 - INFO - spider url:https://jobs.zhaopin.com/225831323251093.htm
+2019-04-29 15:28:57,097 - INFO - get job info success!
+2019-04-29 15:28:57,099 - INFO - spider url:https://jobs.zhaopin.com/CC528612189J00099859513.htm
+2019-04-29 15:28:57,348 - INFO - get job info success!
+2019-04-29 15:28:57,350 - INFO - spider url:https://jobs.zhaopin.com/CC560880380J00306489407.htm
+2019-04-29 15:28:57,713 - INFO - get job info success!
+2019-04-29 15:28:57,715 - INFO - spider url:https://jobs.zhaopin.com/CZ636635530J00167236611.htm
+2019-04-29 15:28:57,917 - INFO - get job info success!
+2019-04-29 15:28:57,919 - INFO - spider url:https://jobs.zhaopin.com/CC178087823J00312962107.htm
+2019-04-29 15:28:58,179 - INFO - get job info success!
+2019-04-29 15:28:58,180 - INFO - spider url:https://jobs.zhaopin.com/CC225831323J00235795805.htm
+2019-04-29 15:28:58,412 - INFO - get job info success!
+2019-04-29 15:28:58,414 - INFO - spider url:https://jobs.zhaopin.com/CC000612162J00242316001.htm
+2019-04-29 15:28:58,552 - INFO - get job info success!
+2019-04-29 15:28:58,553 - INFO - spider url:https://jobs.zhaopin.com/CZ822095550J00087249610.htm
+2019-04-29 15:28:58,886 - INFO - get job info success!
+2019-04-29 15:28:58,887 - INFO - spider url:https://jobs.zhaopin.com/CC819930900J00091054613.htm
+2019-04-29 15:28:59,051 - INFO - get job info success!
+2019-04-29 15:28:59,053 - INFO - spider url:https://jobs.zhaopin.com/CC175270725J00369425701.htm
+2019-04-29 15:28:59,306 - INFO - get job info success!
+2019-04-29 15:28:59,307 - INFO - spider url:https://jobs.zhaopin.com/CC598647637J00066236809.htm
+2019-04-29 15:28:59,542 - INFO - get job info success!
+2019-04-29 15:28:59,543 - INFO - spider url:https://jobs.zhaopin.com/196333621251064.htm
+2019-04-29 15:28:59,832 - INFO - get job info success!
+2019-04-29 15:28:59,833 - INFO - spider url:https://jobs.zhaopin.com/CC178087823J00223446507.htm
+2019-04-29 15:29:00,048 - INFO - get job info success!
+2019-04-29 15:29:00,049 - INFO - spider url:https://jobs.zhaopin.com/177145326250612.htm
+2019-04-29 15:29:00,345 - INFO - get job info success!
+2019-04-29 15:29:00,346 - INFO - spider url:https://jobs.zhaopin.com/CZ636635530J00167236211.htm
+2019-04-29 15:29:00,517 - INFO - get job info success!
+2019-04-29 15:29:00,518 - INFO - spider url:https://jobs.zhaopin.com/CC209465216J00235162602.htm
+2019-04-29 15:29:00,868 - INFO - get job info success!
+2019-04-29 15:29:00,869 - INFO - spider url:https://jobs.zhaopin.com/CZ822095550J00086494410.htm
+2019-04-29 15:29:01,224 - INFO - get job info success!
+2019-04-29 15:29:01,225 - INFO - spider url:https://jobs.zhaopin.com/CC220001415J00197258706.htm
+2019-04-29 15:29:01,521 - INFO - get job info success!
+2019-04-29 15:29:01,522 - INFO - spider url:https://jobs.zhaopin.com/CC579581520J00135469309.htm
+2019-04-29 15:29:01,776 - INFO - get job info success!
+2019-04-29 15:29:01,777 - INFO - spider url:https://jobs.zhaopin.com/CC358167919J00227709608.htm
+2019-04-29 15:29:02,085 - INFO - get job info success!
+2019-04-29 15:29:02,085 - INFO - spider url:https://jobs.zhaopin.com/CC178087823J00238432207.htm
+2019-04-29 15:29:02,368 - INFO - get job info success!
+2019-04-29 15:29:02,369 - INFO - spider url:https://jobs.zhaopin.com/121026559253437.htm
+2019-04-29 15:29:02,581 - INFO - get job info success!
+2019-04-29 15:29:02,583 - INFO - spider url:https://jobs.zhaopin.com/CC433974280J00150426113.htm
+2019-04-29 15:29:02,835 - INFO - get job info success!
+2019-04-29 15:29:02,836 - INFO - spider url:https://jobs.zhaopin.com/CC449214881J00052868012.htm
+2019-04-29 15:29:03,079 - INFO - get job info success!
+2019-04-29 15:29:03,079 - INFO - spider url:https://jobs.zhaopin.com/CC178087823J00255337107.htm
+2019-04-29 15:29:03,281 - INFO - get job info success!
+2019-04-29 15:29:03,282 - INFO - spider url:https://jobs.zhaopin.com/CC214137116J00150463813.htm
+2019-04-29 15:29:03,411 - INFO - get job info success!
+2019-04-29 15:29:03,411 - INFO - spider url:https://jobs.zhaopin.com/CC204352011J00126513902.htm
+2019-04-29 15:29:03,632 - INFO - get job info success!
+2019-04-29 15:29:03,633 - INFO - spider url:https://jobs.zhaopin.com/CC595012026J00305253803.htm
+2019-04-29 15:29:03,903 - INFO - get job info success!
+2019-04-29 15:29:03,904 - INFO - spider url:https://jobs.zhaopin.com/CC317831389J00165731411.htm
+2019-04-29 15:29:04,092 - INFO - get job info success!
+2019-04-29 15:29:04,093 - INFO - spider url:https://jobs.zhaopin.com/332612588250036.htm
+2019-04-29 15:29:04,485 - INFO - get job info success!
+2019-04-29 15:29:04,486 - INFO - spider url:https://jobs.zhaopin.com/CC353498713J00251368808.htm
+2019-04-29 15:29:04,703 - INFO - get job info success!
+2019-04-29 15:29:04,704 - INFO - spider url:https://jobs.zhaopin.com/CZ636635530J00167236811.htm
+2019-04-29 15:29:05,007 - INFO - get job info success!
+2019-04-29 15:29:05,008 - INFO - spider url:https://jobs.zhaopin.com/CC392127021J00149979713.htm
+2019-04-29 15:29:05,298 - INFO - get job info success!
+2019-04-29 15:29:05,300 - INFO - spider url:https://jobs.zhaopin.com/176381019251007.htm
+2019-04-29 15:29:05,563 - INFO - get job info success!
+2019-04-29 15:29:05,564 - INFO - spider url:https://jobs.zhaopin.com/CC312956882J00176580501.htm
+2019-04-29 15:29:05,807 - INFO - get job info success!
+2019-04-29 15:29:05,809 - INFO - spider url:https://jobs.zhaopin.com/CZ372422680J00325103605.htm
+2019-04-29 15:29:06,084 - INFO - get job info success!
+2019-04-29 15:29:06,085 - INFO - spider url:https://jobs.zhaopin.com/CZ514374980J00087764809.htm
+2019-04-29 15:29:06,329 - INFO - get job info success!
+2019-04-29 15:29:06,330 - INFO - spider url:https://jobs.zhaopin.com/CC453479588J00128870614.htm
+2019-04-29 15:29:06,655 - INFO - get job info success!
+2019-04-29 15:29:06,656 - INFO - spider url:https://jobs.zhaopin.com/CZ836645670J00093020309.htm
+2019-04-29 15:29:06,914 - INFO - get job info success!
+2019-04-29 15:29:06,915 - INFO - spider url:https://jobs.zhaopin.com/CC379923731J00198274206.htm
+2019-04-29 15:29:07,161 - INFO - get job info success!
+2019-04-29 15:29:07,162 - INFO - spider url:https://jobs.zhaopin.com/CC378234413J00034401102.htm
+2019-04-29 15:29:07,439 - INFO - get job info success!
+2019-04-29 15:29:07,440 - INFO - spider url:https://jobs.zhaopin.com/CC121026559J00249247208.htm
+2019-04-29 15:29:07,674 - INFO - get job info success!
+2019-04-29 15:29:07,675 - INFO - spider url:https://jobs.zhaopin.com/CC178087823J00314480407.htm
+2019-04-29 15:29:07,913 - INFO - get job info success!
+2019-04-29 15:29:07,914 - INFO - spider url:https://jobs.zhaopin.com/CC178087823J00146533807.htm
+2019-04-29 15:29:08,265 - INFO - get job info success!
+2019-04-29 15:29:08,267 - INFO - spider url:https://jobs.zhaopin.com/CC844880780J00268587007.htm
+2019-04-29 15:29:08,497 - INFO - get job info success!
+2019-04-29 15:29:08,497 - INFO - spider start:480
+2019-04-29 15:29:08,498 - INFO - get current page all job urls...
+2019-04-29 15:29:09,394 - INFO - get current page all job urls √:60
+2019-04-29 15:29:09,395 - INFO - spider url:https://jobs.zhaopin.com/CC844880780J00313156707.htm
+2019-04-29 15:29:09,753 - INFO - get job info success!
+2019-04-29 15:29:09,754 - INFO - spider url:https://jobs.zhaopin.com/CC635873734J00071400612.htm
+2019-04-29 15:29:09,926 - INFO - get job info success!
+2019-04-29 15:29:09,926 - INFO - spider url:https://jobs.zhaopin.com/CC863982350J00241487004.htm
+2019-04-29 15:29:10,125 - INFO - get job info success!
+2019-04-29 15:29:10,126 - INFO - spider url:https://jobs.zhaopin.com/CC296486880J00130390715.htm
+2019-04-29 15:29:10,338 - INFO - get job info success!
+2019-04-29 15:29:10,339 - INFO - spider url:https://jobs.zhaopin.com/CC426686681J00131706309.htm
+2019-04-29 15:29:10,495 - INFO - get job info success!
+2019-04-29 15:29:10,496 - INFO - spider url:https://jobs.zhaopin.com/CC120002369J00132662914.htm
+2019-04-29 15:29:10,824 - INFO - get job info success!
+2019-04-29 15:29:10,825 - INFO - spider url:https://jobs.zhaopin.com/332612588250001.htm
+2019-04-29 15:29:10,944 - INFO - get job info success!
+2019-04-29 15:29:10,946 - INFO - spider url:https://jobs.zhaopin.com/CC196333621J00281551703.htm
+2019-04-29 15:29:11,191 - INFO - get job info success!
+2019-04-29 15:29:11,192 - INFO - spider url:https://jobs.zhaopin.com/CZ810010850J00068616713.htm
+2019-04-29 15:29:11,364 - INFO - get job info success!
+2019-04-29 15:29:11,365 - INFO - spider url:https://jobs.zhaopin.com/CZ457656780J00278070107.htm
+2019-04-29 15:29:11,570 - INFO - get job info success!
+2019-04-29 15:29:11,571 - INFO - spider url:https://jobs.zhaopin.com/CC830909050J00134529711.htm
+2019-04-29 15:29:11,870 - INFO - get job info success!
+2019-04-29 15:29:11,871 - INFO - spider url:https://jobs.zhaopin.com/CZ641869730J00060228513.htm
+2019-04-29 15:29:12,193 - INFO - get job info success!
+2019-04-29 15:29:12,194 - INFO - spider url:https://jobs.zhaopin.com/381216515250100.htm
+2019-04-29 15:29:12,410 - INFO - get job info success!
+2019-04-29 15:29:12,411 - INFO - spider url:https://jobs.zhaopin.com/CZ825602180J00117928415.htm
+2019-04-29 15:29:12,608 - INFO - get job info success!
+2019-04-29 15:29:12,610 - INFO - spider url:https://jobs.zhaopin.com/CC834126950J00245780708.htm
+2019-04-29 15:29:12,919 - INFO - get job info success!
+2019-04-29 15:29:12,920 - INFO - spider url:https://jobs.zhaopin.com/CC332612588J00293391303.htm
+2019-04-29 15:29:13,052 - INFO - get job info success!
+2019-04-29 15:29:13,054 - INFO - spider url:https://jobs.zhaopin.com/CZ457656780J00277982107.htm
+2019-04-29 15:29:13,328 - INFO - get job info success!
+2019-04-29 15:29:13,329 - INFO - spider url:https://jobs.zhaopin.com/CC817344580J00125105010.htm
+2019-04-29 15:29:13,584 - INFO - get job info success!
+2019-04-29 15:29:13,585 - INFO - spider url:https://jobs.zhaopin.com/CC453479588J00129050214.htm
+2019-04-29 15:29:13,828 - INFO - get job info success!
+2019-04-29 15:29:13,829 - INFO - spider url:https://jobs.zhaopin.com/332612588250013.htm
+2019-04-29 15:29:13,968 - INFO - get job info success!
+2019-04-29 15:29:13,969 - INFO - spider url:https://jobs.zhaopin.com/CC601790089J00111961510.htm
+2019-04-29 15:29:14,231 - INFO - get job info success!
+2019-04-29 15:29:14,233 - INFO - spider url:https://jobs.zhaopin.com/CC332612588J00167234203.htm
+2019-04-29 15:29:14,514 - INFO - get job info success!
+2019-04-29 15:29:14,515 - INFO - spider url:https://jobs.zhaopin.com/CC812921020J00080296812.htm
+2019-04-29 15:29:14,817 - INFO - get job info success!
+2019-04-29 15:29:14,819 - INFO - spider url:https://jobs.zhaopin.com/CC580864580J00307413803.htm
+2019-04-29 15:29:15,111 - INFO - get job info success!
+2019-04-29 15:29:15,112 - INFO - spider url:https://jobs.zhaopin.com/CC570701729J00166883105.htm
+2019-04-29 15:29:15,332 - INFO - get job info success!
+2019-04-29 15:29:15,334 - INFO - spider url:https://jobs.zhaopin.com/CC672543080J00130463011.htm
+2019-04-29 15:29:15,610 - INFO - get job info success!
+2019-04-29 15:29:15,611 - INFO - spider url:https://jobs.zhaopin.com/CC178087823J00318309707.htm
+2019-04-29 15:29:15,928 - INFO - get job info success!
+2019-04-29 15:29:15,929 - INFO - spider url:https://jobs.zhaopin.com/CC598138320J00110326710.htm
+2019-04-29 15:29:16,183 - INFO - get job info success!
+2019-04-29 15:29:16,184 - INFO - spider url:https://jobs.zhaopin.com/601790089250018.htm
+2019-04-29 15:29:16,433 - INFO - get job info success!
+2019-04-29 15:29:16,434 - INFO - spider url:https://jobs.zhaopin.com/CC256239317J00089030413.htm
+2019-04-29 15:29:16,651 - INFO - get job info success!
+2019-04-29 15:29:16,652 - INFO - spider url:https://jobs.zhaopin.com/CC579581520J00133426909.htm
+2019-04-29 15:29:16,923 - INFO - get job info success!
+2019-04-29 15:29:16,924 - INFO - spider url:https://jobs.zhaopin.com/615002020250246.htm
+2019-04-29 15:29:17,298 - INFO - get job info success!
+2019-04-29 15:29:17,299 - INFO - spider url:https://jobs.zhaopin.com/CZ714661830J00128599614.htm
+2019-04-29 15:29:17,571 - INFO - get job info success!
+2019-04-29 15:29:17,573 - INFO - spider url:https://jobs.zhaopin.com/CC844361830J00110576015.htm
+2019-04-29 15:29:17,809 - INFO - get job info success!
+2019-04-29 15:29:17,809 - INFO - spider url:https://jobs.zhaopin.com/CC457875536J00030773209.htm
+2019-04-29 15:29:17,936 - INFO - get job info success!
+2019-04-29 15:29:17,936 - INFO - spider url:https://jobs.zhaopin.com/CC501410622J00287727407.htm
+2019-04-29 15:29:18,498 - INFO - get job info success!
+2019-04-29 15:29:18,499 - INFO - spider url:https://jobs.zhaopin.com/CZ840933260J00166177011.htm
+2019-04-29 15:29:18,910 - INFO - get job info success!
+2019-04-29 15:29:18,911 - INFO - spider url:https://jobs.zhaopin.com/CC302181036J00233014208.htm
+2019-04-29 15:29:19,193 - INFO - get job info success!
+2019-04-29 15:29:19,194 - INFO - spider url:https://jobs.zhaopin.com/CZ644431480J00117246809.htm
+2019-04-29 15:29:19,464 - INFO - get job info success!
+2019-04-29 15:29:19,465 - INFO - spider url:https://jobs.zhaopin.com/CC201774739J00058933710.htm
+2019-04-29 15:29:19,886 - INFO - get job info success!
+2019-04-29 15:29:19,887 - INFO - spider url:https://jobs.zhaopin.com/CC627467087J00131059912.htm
+2019-04-29 15:29:20,124 - INFO - get job info success!
+2019-04-29 15:29:20,125 - INFO - spider url:https://jobs.zhaopin.com/CC599548085J00080306413.htm
+2019-04-29 15:29:20,360 - INFO - get job info success!
+2019-04-29 15:29:20,360 - INFO - spider url:https://jobs.zhaopin.com/CC656118429J00184783603.htm
+2019-04-29 15:29:20,561 - INFO - get job info success!
+2019-04-29 15:29:20,562 - INFO - spider url:https://jobs.zhaopin.com/229592517250222.htm
+2019-04-29 15:29:20,712 - INFO - get job info success!
+2019-04-29 15:29:20,713 - INFO - spider url:https://jobs.zhaopin.com/CC439390388J00105319712.htm
+2019-04-29 15:29:21,077 - INFO - get job info success!
+2019-04-29 15:29:21,078 - INFO - spider url:https://jobs.zhaopin.com/CC627467087J00131057912.htm
+2019-04-29 15:29:21,353 - INFO - get job info success!
+2019-04-29 15:29:21,354 - INFO - spider url:https://jobs.zhaopin.com/CC595012026J00305251903.htm
+2019-04-29 15:29:21,596 - INFO - get job info success!
+2019-04-29 15:29:21,596 - INFO - spider url:https://jobs.zhaopin.com/CZ840933260J00164563111.htm
+2019-04-29 15:29:22,031 - INFO - get job info success!
+2019-04-29 15:29:22,032 - INFO - spider url:https://jobs.zhaopin.com/CC392618030J00075752309.htm
+2019-04-29 15:29:22,299 - INFO - get job info success!
+2019-04-29 15:29:22,300 - INFO - spider url:https://jobs.zhaopin.com/CZ565022280J00117745115.htm
+2019-04-29 15:29:22,720 - INFO - get job info success!
+2019-04-29 15:29:22,721 - INFO - spider url:https://jobs.zhaopin.com/CZ514374980J00060946309.htm
+2019-04-29 15:29:22,919 - INFO - get job info success!
+2019-04-29 15:29:22,920 - INFO - spider url:https://jobs.zhaopin.com/CC863982350J00241464804.htm
+2019-04-29 15:29:23,227 - INFO - get job info success!
+2019-04-29 15:29:23,229 - INFO - spider url:https://jobs.zhaopin.com/CZ810262740J00127038109.htm
+2019-04-29 15:29:23,455 - INFO - get job info success!
+2019-04-29 15:29:23,456 - INFO - spider url:https://jobs.zhaopin.com/CC834112980J00108198214.htm
+2019-04-29 15:29:23,755 - INFO - get job info success!
+2019-04-29 15:29:23,757 - INFO - spider url:https://jobs.zhaopin.com/CZ808314720J00137939510.htm
+2019-04-29 15:29:23,909 - INFO - get job info success!
+2019-04-29 15:29:23,911 - INFO - spider url:https://jobs.zhaopin.com/CC834114890J00113540909.htm
+2019-04-29 15:29:24,133 - INFO - get job info success!
+2019-04-29 15:29:24,134 - INFO - spider url:https://jobs.zhaopin.com/CC859226350J00133493610.htm
+2019-04-29 15:29:24,422 - INFO - get job info success!
+2019-04-29 15:29:24,423 - INFO - spider url:https://jobs.zhaopin.com/655609920250022.htm
+2019-04-29 15:29:24,662 - INFO - get job info success!
+2019-04-29 15:29:24,663 - INFO - spider url:https://jobs.zhaopin.com/CC672172980J00138859610.htm
+2019-04-29 15:29:24,977 - INFO - get job info success!
+2019-04-29 15:29:24,978 - INFO - spider url:https://jobs.zhaopin.com/CC708591080J00113285414.htm
+2019-04-29 15:29:25,331 - INFO - get job info success!
+2019-04-29 15:29:25,333 - INFO - spider start:540
+2019-04-29 15:29:25,333 - INFO - get current page all job urls...
+2019-04-29 15:29:26,062 - INFO - get current page all job urls √:60
+2019-04-29 15:29:26,063 - INFO - spider url:https://jobs.zhaopin.com/CC446675623J00289330303.htm
+2019-04-29 15:29:26,290 - INFO - get job info success!
+2019-04-29 15:29:26,291 - INFO - spider url:https://jobs.zhaopin.com/CC538774130J00137343810.htm
+2019-04-29 15:29:26,659 - INFO - get job info success!
+2019-04-29 15:29:26,661 - INFO - spider url:https://jobs.zhaopin.com/378234413250028.htm
+2019-04-29 15:29:26,902 - INFO - get job info success!
+2019-04-29 15:29:26,904 - INFO - spider url:https://jobs.zhaopin.com/CC409196484J00041369009.htm
+2019-04-29 15:29:27,205 - INFO - get job info success!
+2019-04-29 15:29:27,206 - INFO - spider url:https://jobs.zhaopin.com/CC222985518J00157587411.htm
+2019-04-29 15:29:27,370 - INFO - get job info success!
+2019-04-29 15:29:27,370 - INFO - spider url:https://jobs.zhaopin.com/CC319297737J00235337706.htm
+2019-04-29 15:29:27,670 - INFO - get job info success!
+2019-04-29 15:29:27,671 - INFO - spider url:https://jobs.zhaopin.com/CZ468842030J00119390311.htm
+2019-04-29 15:29:27,918 - INFO - get job info success!
+2019-04-29 15:29:27,919 - INFO - spider url:https://jobs.zhaopin.com/565802021250017.htm
+2019-04-29 15:29:28,277 - INFO - get job info success!
+2019-04-29 15:29:28,278 - INFO - spider url:https://jobs.zhaopin.com/CC817344580J00125099610.htm
+2019-04-29 15:29:28,542 - INFO - get job info success!
+2019-04-29 15:29:28,543 - INFO - spider url:https://jobs.zhaopin.com/CZ698844080J00161693701.htm
+2019-04-29 15:29:28,799 - INFO - get job info success!
+2019-04-29 15:29:28,800 - INFO - spider url:https://jobs.zhaopin.com/528383237250008.htm
+2019-04-29 15:29:29,061 - INFO - get job info success!
+2019-04-29 15:29:29,062 - INFO - spider url:https://jobs.zhaopin.com/CC446327017J00170339406.htm
+2019-04-29 15:29:29,363 - INFO - get job info success!
+2019-04-29 15:29:29,364 - INFO - spider url:https://jobs.zhaopin.com/CZ457656780J00284920107.htm
+2019-04-29 15:29:29,639 - INFO - get job info success!
+2019-04-29 15:29:29,641 - INFO - spider url:https://jobs.zhaopin.com/177145326250640.htm
+2019-04-29 15:29:29,904 - INFO - get job info success!
+2019-04-29 15:29:29,904 - INFO - spider url:https://jobs.zhaopin.com/CC813955250J00062805610.htm
+2019-04-29 15:29:30,140 - INFO - get job info success!
+2019-04-29 15:29:30,140 - INFO - spider url:https://jobs.zhaopin.com/CC382535082J00308827405.htm
+2019-04-29 15:29:30,442 - INFO - get job info success!
+2019-04-29 15:29:30,444 - INFO - spider url:https://jobs.zhaopin.com/235689518250147.htm
+2019-04-29 15:29:30,994 - INFO - get job info success!
+2019-04-29 15:29:30,995 - INFO - spider url:https://jobs.zhaopin.com/225831323252019.htm
+2019-04-29 15:29:31,639 - INFO - get job info success!
+2019-04-29 15:29:31,640 - INFO - spider url:https://jobs.zhaopin.com/CC672543080J00129573411.htm
+2019-04-29 15:29:32,507 - INFO - get job info success!
+2019-04-29 15:29:32,508 - INFO - spider url:https://jobs.zhaopin.com/CC510172580J00073759614.htm
+2019-04-29 15:29:32,804 - INFO - get job info success!
+2019-04-29 15:29:32,806 - INFO - spider url:https://jobs.zhaopin.com/615002020250319.htm
+2019-04-29 15:29:33,116 - INFO - get job info success!
+2019-04-29 15:29:33,117 - INFO - spider url:https://jobs.zhaopin.com/CZ714597180J00106778910.htm
+2019-04-29 15:29:33,372 - INFO - get job info success!
+2019-04-29 15:29:33,373 - INFO - spider url:https://jobs.zhaopin.com/CC699105425J00079875207.htm
+2019-04-29 15:29:33,537 - INFO - get job info success!
+2019-04-29 15:29:33,538 - INFO - spider url:https://jobs.zhaopin.com/CC365298317J00133276911.htm
+2019-04-29 15:29:33,773 - INFO - get job info success!
+2019-04-29 15:29:33,774 - INFO - spider url:https://jobs.zhaopin.com/332612588250035.htm
+2019-04-29 15:29:34,013 - INFO - get job info success!
+2019-04-29 15:29:34,013 - INFO - spider url:https://jobs.zhaopin.com/595101529250004.htm
+2019-04-29 15:29:34,283 - INFO - get job info success!
+2019-04-29 15:29:34,283 - INFO - spider url:https://jobs.zhaopin.com/CC713005380J00119387910.htm
+2019-04-29 15:29:34,433 - INFO - get job info success!
+2019-04-29 15:29:34,434 - INFO - spider url:https://jobs.zhaopin.com/CC630164426J00220013503.htm
+2019-04-29 15:29:34,593 - INFO - get job info success!
+2019-04-29 15:29:34,595 - INFO - spider url:https://jobs.zhaopin.com/CC120002369J00132663814.htm
+2019-04-29 15:29:34,849 - INFO - get job info success!
+2019-04-29 15:29:34,850 - INFO - spider url:https://jobs.zhaopin.com/220079615250041.htm
+2019-04-29 15:29:35,015 - INFO - get job info success!
+2019-04-29 15:29:35,015 - INFO - spider url:https://jobs.zhaopin.com/CZ348487210J00049868614.htm
+2019-04-29 15:29:35,555 - INFO - get job info success!
+2019-04-29 15:29:35,556 - INFO - spider url:https://jobs.zhaopin.com/CZ572092620J00116450614.htm
+2019-04-29 15:29:35,804 - INFO - get job info success!
+2019-04-29 15:29:35,805 - INFO - spider url:https://jobs.zhaopin.com/176784525250138.htm
+2019-04-29 15:29:36,054 - INFO - get job info success!
+2019-04-29 15:29:36,056 - INFO - spider url:https://jobs.zhaopin.com/CC176766329J00166603001.htm
+2019-04-29 15:29:36,416 - INFO - get job info success!
+2019-04-29 15:29:36,417 - INFO - spider url:https://jobs.zhaopin.com/CC834114890J00087928109.htm
+2019-04-29 15:29:36,716 - INFO - get job info success!
+2019-04-29 15:29:36,718 - INFO - spider url:https://jobs.zhaopin.com/CC136994309J00181180607.htm
+2019-04-29 15:29:37,004 - INFO - get job info success!
+2019-04-29 15:29:37,005 - INFO - spider url:https://jobs.zhaopin.com/CC264557711J00028357715.htm
+2019-04-29 15:29:37,200 - INFO - get job info success!
+2019-04-29 15:29:37,202 - INFO - spider url:https://jobs.zhaopin.com/208240516250071.htm
+2019-04-29 15:29:37,500 - INFO - get job info success!
+2019-04-29 15:29:37,502 - INFO - spider url:https://jobs.zhaopin.com/570701729250677.htm
+2019-04-29 15:29:37,755 - INFO - get job info success!
+2019-04-29 15:29:37,757 - INFO - spider url:https://jobs.zhaopin.com/CC365298317J00133277011.htm
+2019-04-29 15:29:38,216 - INFO - get job info success!
+2019-04-29 15:29:38,217 - INFO - spider url:https://jobs.zhaopin.com/CC336374818J00147173802.htm
+2019-04-29 15:29:38,517 - INFO - get job info success!
+2019-04-29 15:29:38,519 - INFO - spider url:https://jobs.zhaopin.com/CC178264027J00275967003.htm
+2019-04-29 15:29:39,320 - INFO - get job info success!
+2019-04-29 15:29:39,321 - INFO - spider url:https://jobs.zhaopin.com/CZ457656780J00277998307.htm
+2019-04-29 15:29:39,668 - INFO - get job info success!
+2019-04-29 15:29:39,670 - INFO - spider url:https://jobs.zhaopin.com/CC344822631J00150986213.htm
+2019-04-29 15:29:39,932 - INFO - get job info success!
+2019-04-29 15:29:39,933 - INFO - spider url:https://jobs.zhaopin.com/337031237250018.htm
+2019-04-29 15:29:40,127 - INFO - get job info success!
+2019-04-29 15:29:40,128 - INFO - spider url:https://jobs.zhaopin.com/177152020250281.htm
+2019-04-29 15:29:40,815 - INFO - get job info success!
+2019-04-29 15:29:40,817 - INFO - spider url:https://jobs.zhaopin.com/CC392618030J00080018209.htm
+2019-04-29 15:29:41,116 - INFO - get job info success!
+2019-04-29 15:29:41,118 - INFO - spider url:https://jobs.zhaopin.com/CC656101784J00077842613.htm
+2019-04-29 15:29:41,365 - INFO - get job info success!
+2019-04-29 15:29:41,366 - INFO - spider start:600
+2019-04-29 15:29:41,367 - INFO - get current page all job urls...
+2019-04-29 15:29:42,051 - INFO - get current page all job urls √:60
+2019-04-29 15:29:42,052 - INFO - spider url:https://jobs.zhaopin.com/CZ698844080J00207678501.htm
+2019-04-29 15:29:42,301 - INFO - get job info success!
+2019-04-29 15:29:42,302 - INFO - spider url:https://jobs.zhaopin.com/CC656118429J00203913803.htm
+2019-04-29 15:29:42,574 - INFO - get job info success!
+2019-04-29 15:29:42,575 - INFO - spider url:https://jobs.zhaopin.com/CZ246313080J00122759409.htm
+2019-04-29 15:29:42,840 - INFO - get job info success!
+2019-04-29 15:29:42,841 - INFO - spider url:https://jobs.zhaopin.com/CC374657315J00229709304.htm
+2019-04-29 15:29:43,298 - INFO - get job info success!
+2019-04-29 15:29:43,299 - INFO - spider url:https://jobs.zhaopin.com/CC337031237J00221817504.htm
+2019-04-29 15:29:43,581 - INFO - get job info success!
+2019-04-29 15:29:43,582 - INFO - spider url:https://jobs.zhaopin.com/379799630250013.htm
+2019-04-29 15:29:43,864 - INFO - get job info success!
+2019-04-29 15:29:43,865 - INFO - spider url:https://jobs.zhaopin.com/CC392420639J00110733909.htm
+2019-04-29 15:29:44,112 - INFO - get job info success!
+2019-04-29 15:29:44,113 - INFO - spider url:https://jobs.zhaopin.com/624768926250828.htm
+2019-04-29 15:29:44,289 - INFO - get job info success!
+2019-04-29 15:29:44,290 - INFO - spider url:https://jobs.zhaopin.com/CC705679627J00091880612.htm
+2019-04-30 10:05:44,133 - INFO - ********************Start running spider!********************
+2019-04-30 10:05:44,133 - INFO - **********start spider jobname:数据分析city:石家庄**********
+2019-04-30 10:05:44,133 - INFO - start get job count...
+2019-04-30 10:05:44,950 - INFO - get job count nums sucess:1868
+2019-04-30 10:05:44,951 - INFO - page nums:32
+2019-04-30 10:05:44,951 - INFO - load url file of already spider：old_url.txt
+2019-04-30 10:05:44,952 - INFO - not found url file of already spider!
+2019-04-30 10:05:44,952 - INFO - spider start:0
+2019-04-30 10:05:44,953 - INFO - get current page all job urls...
+2019-04-30 10:05:46,919 - INFO - get current page all job urls √:60
+2019-04-30 10:05:46,919 - INFO - spider url:https://jobs.zhaopin.com/648311223250323.htm
+2019-04-30 10:05:47,215 - INFO - get job info success!
+2019-04-30 10:05:47,220 - INFO - spider url:https://jobs.zhaopin.com/CC200911984J00270470907.htm
+2019-04-30 10:05:47,543 - INFO - get job info success!
+2019-04-30 10:05:47,544 - INFO - spider url:https://jobs.zhaopin.com/CC179791323J00332160505.htm
+2019-04-30 10:05:47,811 - INFO - get job info success!
+2019-04-30 10:05:47,812 - INFO - spider url:https://jobs.zhaopin.com/CC377132725J00151056511.htm
+2019-04-30 10:05:48,032 - INFO - get job info success!
+2019-04-30 10:05:48,032 - INFO - spider url:https://jobs.zhaopin.com/CC320474686J00134297714.htm
